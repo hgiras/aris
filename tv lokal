@@ -151,6 +151,7 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 
 
 
+
          ========SPORT=====
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -177,8 +178,23 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 #EXTINF:-1 tvg-id="709" tvg-url="https://bit.ly/UnifyEpg" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/565/200565-SNAPSHOT-l.png", beIN Sports 2 
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sport",PHI: beINSports 3
-http://iptv12k.com:35461/654321/123456/9695
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beIN SPORTS 3 (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/566/200566-SNAPSHOT-l.png", beIN Sports 3 
+https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="710" tvg-url="https://bit.ly/UnifyEpg" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/787/204787-SNAPSHOT-l.png", beIN Sports 4
+https://cempedak-live-cdn.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/788/204788-SNAPSHOT-l.png", beIN Sports 5
+https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 #EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports",SpoTV
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -216,10 +232,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 #EXTINF:-1 tvg-id="FightSports" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Sport", Wrestling
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Sports", Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Sport",SPOTV_2.(ext)
-http://extraott.com/live/6945574629/7169628753/400200726.ts
 
 #EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
