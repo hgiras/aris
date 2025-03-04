@@ -296,6 +296,11 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/279991
 #EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="Sports",TVRI Sport(mt)
 https://mantul.biz.id:443/user010223/user010223/618.ts
 
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" ch-number="111" tvg-logo="https://dl.dropbox.com/s/pd5a9ic6kdnjznu/SUKAN_RTM.jpg",SUKAN RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+# https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Sports", Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
