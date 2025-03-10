@@ -558,6 +558,26 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
 
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png" group-title="Sports",Sports TV 
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png",ESPN 1
+http://assista.pro:80/0333686557/Vilamariante1/134014
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png",ESPN 2 
+http://assista.pro:80/0333686557/Vilamariante1/134019
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png",ESPN 3
+http://assista.pro:80/0333686557/Vilamariante1/134025
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png",ESPN 4
+http://assista.pro:80/0333686557/Vilamariante1/134033
+
+
+
+
+
+
 
 
 
