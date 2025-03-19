@@ -162,27 +162,20 @@ https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="🔴NASIONAL" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="4" tvg-id="ANTV.id" tvg-name="ANTV", ANTV
 http://khano.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
 
-#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://warningfm.github.io/v3/img/CTqyhF2.png?v=1.0.0.1", tvOne 
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png", tvOne 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
 https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CTqyhF2.png?v=1.0.0.1" group-title="🔴NASIONAL" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="10" tvg-id="tvOne.my.id" tvg-name="TVOne", TVOne ᴴᴰ
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png" group-title="🔴NASIONAL" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="10" tvg-id="tvOne.my.id" tvg-name="TVOne", TVOne ᴴᴰ
 http://khano.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
 
-#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-l.png", NET
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-
-#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-l.png", NET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 #EXTINF:-1 tvg-id="MDTV.id" group-title="🔴NASIONAL" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-l.png",NET TV #https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WaFICZ4.png?v=1.0.0.1" group-title="🔴NASIONAL" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="12" tvg-id="MDTV.id" tvg-name="MDTV", MDTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WaFICZ4.png?v=1.0.0.1" group-title="🔴NASIONAL" group-logo="https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-l.png" ch-number="12" tvg-id="MDTV.id" tvg-name="MDTV", MDTV
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg" group-title="🔴NASIONAL", MOJI TV
@@ -194,8 +187,8 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="🔴NASIONAL",MOJI TV
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg" group-title="🔴NASIONAL",MOJI TV
+http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -211,26 +204,20 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="🔴NASIONAL",INEWS 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png" group-title="🔴NASIONAL",INEWS 
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-chno="100" tvg-name="iNews" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png" group-title="🔴NASIONAL",iNEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
-https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4997e958db/e02f3053b96f4349ad8402d7b181d273.jpg" group-title="🔴NASIONAL",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="🔴NASIONAL",Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="🔴NASIONAL",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png", Kompas TV V+
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png", KompasTV
 http://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png", Kompas TV 
@@ -297,16 +284,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeSt
 #EXTINF:-1 tvg-id="Jowo Channel" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="🔴NASIONAL",Jowo Channel
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="🔴NASIONAL",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="🔴NASIONAL", Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ag3DlGE4zs35O8ozWQWV1XTunvA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/10975/tes-elshinta-tv-eb36eb.jpg" group-title="🔴NASIONAL", Elshinta TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="🔴NASIONAL",CNBC INDONESIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 Android
@@ -444,7 +430,6 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/e4ZNl62.png?v=1.0.0.1" group-title="🔴NASIONAL" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="SaktiTV" tvg-name="Sakti TV", Sakti TV
 http://khano.nng.cloudns.us/live/m3u8/id/3202e9487d9cd5c.m3u8
-
 
 
          ========SPORT========
@@ -2035,19 +2020,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5d
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
 
+ ===================GABUT===============
 
-            =========== MUMET =========
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/bourne1.png", The Bourne Identity (2002)  SUB INDO
-http://abf.filmbluray.id/uurhupo
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/bourne2.png", The Bourne Supremacy (2004) SUB INDO
-http://abf.filmbluray.id/jvp8kqc
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/bourne3.png", The Bourne Ultimatum (2007) SUB INDO
-http://abf.filmbluray.id/2xz4ie5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/bourne4.png", The Bourne Legacy (2012) SUB INDO
-http://abf.filmbluray.id/kbhn1fy
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/bourne5.png", Jason Bourne (2016) SUB INDO
-http://abf.filmbluray.id/d27zerv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lmPlqROh8byvjOs_nWpMMDX7_q3RIBsMTA&usqp=CAU" group-title="ARMStore",The Super Mario Bross Movie (2023)
 https://www.dropbox.com/s/jcq80k98w4al71r/driveid-160454-hdrip-1080-terbit21-com-the-super-mario-bros-movie-2023.mp4?dl=1
 
@@ -2081,7 +2055,7 @@ https://rzwang.sn.files.1drv.com/y4mWM88yWuK8ZM-Uxp8O3OXlaLd1z1Yj371r2iiiHsfuN9b
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK07FNygIyiztFOa7FwY8JsRjPjJTN6_CU9w&usqp=CAU" group-title="ARMStore",Missing (2023)
 https://1uncpg.bn.files.1drv.com/y4mDH850VcBg2R2C5ivleS0mjjIP9zqdWTWbvHBKK5aeZnnakb97ad1QMFkcux63aL64UwAdE9VjwB5EODfgkAx6plmaB2nZytm1iHfnaaFmCiriRhkS0UoIlyHkBLyU11XtUS9feLVp3OcovNJSHiObjptohExmmVbHOhvGGgHTtquUjOU0f283H1N-CIQQ3HKwu6bUa-vcn3uO-efVjafVQ
 
-#EXTINF:-1 tvg-logo="https://img7.cdn.cinoche.com/images/fe290c3d75e8a53c841f12edfe820b8a.jpg" group-title="ARMStorer",Night Train (2023)
+#EXTINF:-1 tvg-logo="https://img7.cdn.cinoche.com/images/fe290c3d75e8a53c841f12edfe820b8a.jpg" group-title="ARMStore",Night Train (2023)
 https://www.dropbox.com/s/ctr2usfjv9bphwy/D21.FUN-Night-Train-2023-1674777782.mp4?dl=1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMV0JnsaohDhYoE_aLMOI8zIyz7Uhr2Er48A&usqp=CAU" group-title="ARMStore",Panther Swat (2023)
@@ -2089,6 +2063,169 @@ https://osqqqa.bn.files.1drv.com/y4mY-uslm7LZjbUzNqDXfKhvlMh35DY_RZlX2UNmil6xc8b
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQF8XOSYAeR1V7TbOmLm-mHpu4t86Zayq-HA&usqp=CAU" group-title="ARMStore",Plane (2023)
 https://www.dropbox.com/s/bmvat7xcbxxvx4j/D21.FUN-Plane-2023-1675423071.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Peter_Pan_%26_Wendy_poster.png" group-title="ARMStore",Peterpan & Wendy (2023)
+https://www.dropbox.com/s/mg94zxkcfjoedvq/D21.FUN-Peter-Pan-Wendy-2023-1682681957.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHylI1lWr_n86mgJ7EKj7AwKTrwZ78XH813g&usqp=CAU" group-title="ARMStore",Supercell (2023)
+https://www.dropbox.com/s/rvofrvr53a2wva0/dzifp-supercell2023.mp4?dl=1
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/s0Qx9YL1JSpYKm1hu0Ovj0IJ1SN-150x225.jpg" group-title="ARMStore",Dead Shot (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-161834-webrip-1080-terbit21-com-dead-shot-2023.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpMcvoZz8oeo7vUGCKh1TIKQbW09h0Hyc-Q&usqp=CAU" group-title="ARMStore",Jung-E (2023)
+https://v9jsrq.bn.files.1drv.com/y4mIzWm6ep4dLlpJl5yidqxs4KMCY7jn702X2KPd7KP3ssVrPk6oacEY3bes9PEPh56RH9S4VZsbqyZunuJgRdWNfNlK96O-MjjFDusSnfDlgqrvfspAYxdpyN-gzF_IrrskC8Jh-st-KhHJQHHp9UKqc69Nu5BjvrY7yQr2qsTBo7O0XpCIid055xcpoPYsbJYJWDQg6vRJr8oV2DjfUvXWw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2r9G8oGoZwP7Dpp24tJsiDuayeotkh5ExQ&usqp=CAU" group-title="ARMStore",Legions (2023)
+https://www.dropbox.com/s/dp9fgcucj73ch9i/D21.FUN-Legions-2023-1674958792.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRslP6dayRtg4x1TrABFWCfdmpggJJJbWK8Uw&usqp=CAU" group-title="ARMStore",Love At First Kiss (2023)
+https://d72ljg.bl.files.1drv.com/y4midZer4jCfLV7bz2kNqUN08ZH4e_Yo_V_WgNZ_2ZNuctrCLL3uWwq6yJTjAe0a47Pa5Rkr_zEDmUEgUSqRHxn_fv-5ueR8WpqmAkbCwPhBLur31-9V8Ltk4hcToahJdGuHyGLAlVUlCCCoXEL2Tkr9lxLvSlDv_qR_fK4-LOoubEOa01XXhrpt4KgDNTT_xgJw80UBHMMe7dTlC-kGa43iA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SalnP7kyCyrYpGuXAGcrJSONAFNFggERXw&usqp=CAU" group-title="ARMStore",Magic Mike Last Dance (2023)
+https://dehxnq.bl.files.1drv.com/y4mkaUL9fMZggtGm7_eyciaMdjfBXxA-AatfjJYtXL_IxEsTtixDc850hHlyHBwegl7wcI9iFBIJOzgzpCn7W7o8nKsauhijkVgQDSZCsws98f1cx5YIM7e6A7QLylMZL09aLaAusYZs8IUSOD6eBv9FBUqdJT0iJ59U1vy9xFrvFkbe34iTzjnpJZa7jHrHPCwwwks67RE0uY65kp1NGgxCw
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/8OyzvMrVx2tXjyJiE3GZpvaXE2T-146x218.jpg" group-title="ARMStore",Invitation to a Murder (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-160591-webrip-1080-terbit21-com-invitation-to-a-murder-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/n8ZpMwYT02XjpQHpSxn1eJw5Zpz-146x218.jpg" group-title="ARMStore",Crater (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef3.ruby.gift/play/driveid-161845-webdl-1080-terbit21-com-crater-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/vnRthEZz16Q9VWcP5homkHxyHoy-146x218.jpg" group-title="ARMStore",The Mother (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef1.ruby.gift/play/driveid-161848-webrip-1080-terbit21-com-the-mother-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/cxSKca4dNlk7O7PMiEYT203vlIw-146x218.jpg" group-title="ARMStore",One Day As a Lion (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ns2.ruby.gift/play/driveid-161063-webrip-720-terbit21-com-one-day-as-a-lion-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/p6yUjhvNGQpFZilKwOKbxQ1eHlo-146x218.jpg" group-title="ARMStore",Renfield (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef3.ruby.gift/play/driveid-161135-webrip-1080-terbit21-com-renfield-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/yMeKoe3ui4Pad8FUOJwCby3SOWe-146x218.jpg" group-title="ARMStore",Death's Roulette (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-161866-webdl-1080-terbit21-com-deaths-roulette-2023.mp4
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn6qbLQsROCAegZ9wJJOf23zgr4Cu4CW60HA&usqp=CAU" group-title="ARMStore",Detective Knight Independence (2023)
+https://dehcya.bl.files.1drv.com/y4mI61EJ8VzFkQsrnEnglIfijYZtT-4J7ww-EpPU_i6WubMqeG1XvX1FFT1ian5d6ZN_LYIJ6HYkGFm8B1qKryUlOayTLgu4-Baka1Bn1p2jRS_tTwmrHoGxRzfZpVLDXPOUkUxOBIhSTGbPWaXaQKqMMaV8Rc6rrfRYYPbItdTE0_EYqamlN6y5Yzjmc2yN2AMTtDiKnINacVdlmcQJepJFg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAx1jkfle9qRhG7VBnKaZtVY3EZBPPIa-QXA&usqp=CAU" group-title="ARMStore",Domme (2023)
+https://prgreg.sn.files.1drv.com/y4mGkwmdfDXemPikJVjbAJ2vWFh4DMsAjBl4j9VACsJKGpfNob1wgsJVZu465u72zV9E7f2U1PG2VQ3ikkgi_xOX3eTBUD2tLygp-6cAIVfZ9f-RIv4SZS774B-7Nu3PDuFO1oXTFsgpLHf7g2-zdedddW_nM14nQVxwBnDDN6XwUqIyZIZwaXvTFi9CKMFwrXECoYbr2YJe7vc-qjm6vVBuA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNV3n_ThGCzQq8t6pBUqYUarlyczQ7pZMysQ&usqp=CAU" group-title="ARMStore",Fast X (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef1.ruby.gift/play/driveid-163592-webdl-1080-terbit21-com-fast-x-2023.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIKWWXa1rrBcg29bCXsv_NfPRWxcCp-2Z2g&usqp=CAU" group-title="ARMStore",Gangnam Zombie (2023)
+https://os9rtq.bn.files.1drv.com/y4mp6OqS9_R25sCWGl5aBcVZ1dfPqGHMo8vCJ2N53b1CGoF0XuujIT92_sMajPd3BF5eoO1bufQYN7KWF2-2DfAZ3VpDnRzC7eFpwmalY-0j9j2dy-dkhiq7uHV-pRNRNGIwFotIRuMiaolMnTZhqwT-q3AoZi4j5--Y2jYQu5Vy5kngfr6-8OgDq8Hyut4pqs4sHUexysqR77ycQwyFJKmgw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGuSOL-ZV4hd6OQPGSbJ6Qj9ulHxTvVN9YQg&usqp=CAU" group-title="ARMStore",House Party (2023)
+https://www.dropbox.com/s/k4ww0fi8co8wmtt/dzifp-housepart2023.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgH8R3zKl5RAyivUaQVcneVbimiOaG3CKwhw&usqp=CAU" group-title="ARMStore",John Wick Chapter 4 (2023)
+https://www.dropbox.com/s/6cayjjw87le2mea/dzifp-johnwick4.mp4?dl=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/pD1o9B0ibENdNroYrBCQemG2jnr-1-146x218.jpg" group-title="ARMStore",Last Sentinel (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-160588-webrip-1080-terbit21-com-last-sentinel-2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/07/r2J02Z2OpNTctfOSN1Ydgii51I3-150x225.jpg" group-title="ARMStore",Guardians of the Galaxy Vol. 3 (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://larabit.link/download/driveid-165168-webdl-1080-terbit21-com-guardians-of-the-galaxy-vol-3-2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/06/gPbM0MK8CP8A174rmUwGsADNYKD-150x225.jpg" group-title="ARMStore",Transformers: Rise of the Beasts (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://maxbit.link/download/driveid-163750-hdcam-720-terbit21-com-transformers-rise-of-the-beasts-2023.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPH8WAOpyxCg4OqOHq8Mb62Wwqg1uqdT0SQw&usqp=CAU" group-title="ARMStore",AntMan & The Wasp Quantumania (2023) Cam
+https://1w61yw.bn.files.1drv.com/y4m8UXhfIG370pBt4WSO5h6IFOuvwmraw5Y0RwaCweWGDM2aPTzpQTSPqMLHDRUtHoU4KhyY2kMIHjAgtR0vIf9VSJsoL4qb1VW6wXfO4OseNzTwxS0kAcLGwfnDPx7PdY-NL_FdyhExR9XhTvP9LWxGkYIh1EdFc471BHVqCWBns-fEAofXBScelmm9QliwtKf50z1aHHnKJim_2iOayKLcw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRbsXMGjwmRCkWJdIISWLpgdX4dWsKgP--A&usqp=CAU" group-title="ARMStore",Ambush (2023)
+https://dej3pa.bl.files.1drv.com/y4mRJktXu5Fz45U8uqe-kwVhQewwDY8KDOCIs7bpz_xUCw3J3Dvu0Dnj-T2BtNEKAJqcjkxNZU-XmHHKGjv55m7_nZpY4WWso2DrRLtuWRfKeTznPwKwILwVwPVQByy1FOxQ_qoAw74fXm3Oof3v81WAzhe2LifGZoFexgr6cvI_6unLnD70hYgR9wWmkI8Dk-BcDpNxAOU3YUEsfz5rusqIQ
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/an/Xt0q2bHBzd0/14035041647842474454_mq.jpg?v=63919330" group-title="ARMStore",Candy Land (2023)
+https://wxkrnw.bn.files.1drv.com/y4mrD8SmhFYCGWfa9dhm_KbSXiDH3bQTOuFtVIlQRH2wUR4v1-O5aDoBNZeqhWDKnK90flm1m0UL406TqjxYQOTfZKpRbXRcCSnGdl8hR3fE_QkgrafjAGKLsKte-YZ222_BpqXPZt4vf7BvCW45OGr6Q7yGksjoAu3dOx4lpz7t_f3JGYVvFpd86LaWviZz1PUvifQ2a96x0vGrKj8kPqNgw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1TVTSxbarRRFyd24dzYPy_N1VzyUfLL3eKA&usqp=CAU" group-title="ARMStore",Consecration (2023)
+https://1w4avw.bn.files.1drv.com/y4mXj6BDLNSK13_BlmYSRAXAXFHTSqAkNLPEQSo2x4LIpxKHzH1k4QhwrTOvn3wWVsqQybEPUlFvS81roSo1FFRlpdt8PDeR4cTKfElwHOHQDlZXhLzPz08G4OUERSp0jFCAgaON4yCVaFNSOOx_Uom74JfJfN-kcAOYVqkeaWDs5ZN0XR1Ig2EveThcGtdJuIp5EBn3i1H6AgSJfd0mhh_bw
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://ngefilm21.us/wp-content/uploads/2023/08/jsD9Xno9bCaDtGm6Av9yr4T5SUq.jpg", Khanzab 2023
+https://www.googleapis.com/drive/v3/files/1wSU_K1LqzXRYh7pJBOb3KRbDehdb9K5c?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://ngefilm21.us/wp-content/uploads/2023/08/uDAKg2wkjmQX7rvLVpdBKXgR07P.jpg", Buya Hamka 2023
+https://www.googleapis.com/drive/v3/files/1wWj9ahUny8yks1oVqnpx0qBNwUD1ZhTy?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://ngefilm21.us/wp-content/uploads/2023/07/gukSJNCDL2Xx8XB9PE5bL5qBOBQ.jpg", Hidayah 2023
+https://www.googleapis.com/drive/v3/files/1M4sgBpqowB9y0LOS4FJC_w7l714UV5H2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://ngefilm21.us/wp-content/uploads/2023/06/gPbM0MK8CP8A174rmUwGsADNYKD.jpg", Transformers: Rise of The Beast 2023
+https://www.googleapis.com/drive/v3/files/1PMlEq8TpVqvGLhKzy4aVHs7uXEldDRQR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://ngefilm21.us/wp-content/uploads/2023/08/5ffWHZsYabHOBfYRJucDgZMoFzl.jpg", Insidious: The Red Door 2023
+https://www.googleapis.com/drive/v3/files/1Rqw9abn8KZu3L0GKB6ONiRCbriQeXSCv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://ngefilm21.us/wp-content/uploads/2023/02/zWq0RoV8d913lZF9AMVsGRgqpR4.jpg", Perjanjian Ghaib 2023
+https://www.googleapis.com/drive/v3/files/1QuS2TESkZsFynYqQHLI6NqknBt_I-N9R?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://image.tmdb.org/t/p/w185/6kpsOtpJe7D6Jrs1QvCMbMEQdeU.jpg", Heart of Stone 2023
+https://www.googleapis.com/drive/v3/files/1I6sIo-NLoDCp1NP_OauljO2NNdEzDcq9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://image.tmdb.org/t/p/w185/9dTO2RygcDT0cQkawABw4QkDegN.jpg", Kamen Rider:Shin 2023
+https://www.googleapis.com/drive/v3/files/1iTwYHXTP6u99oGvibP7SCwY8jIHYyZKB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://image.tmdb.org/t/p/w185/1E5baAaEse26fej7uHcjOgEE2t2.jpg", Fast X 2023
+https://www.googleapis.com/drive/v3/files/19BIHs4yQJp8Qonltfj_vBRoAmvzFwNSc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://image.tmdb.org/t/p/w185/oGsxGrviqmTnMDSSNsyPQMgPqhn.jpg", Ride On (Jackie Chan) 2023
+https://www.googleapis.com/drive/v3/files/19gW7HRuunyKnj1cGQs5QWWi0l5M850-Q?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://image.tmdb.org/t/p/w185/8CYSvYTw9tbFynivdcBcoqRWPGM.jpg", John Wick: Chapter 4 2023
+https://www.googleapis.com/drive/v3/files/1RBWHlw-AZK5YC0WgLZC1kBgNCqc99rlG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://image.tmdb.org/t/p/w185/aX0H63vho7rZ9Rm3I567Zf00Z1t.jpg", Guys Ritchie : The Covenant 2023
+https://www.googleapis.com/drive/v3/files/1h5s6LtCeFmH8DBhe2MBuddfB-HFlmvhu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://ngefilm21.us/wp-content/uploads/2022/07/62HCnUTziyWcpDaBO2i1DX17ljH.jpg", Top Gun : Maverick 2023
+https://www.googleapis.com/drive/v3/files/1L_DGAacQq7b0sl-PmCGHV8QG02nx-mot?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://ngefilm21.us/wp-content/uploads/2023/06/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg", THE FLASH 2023
+https://www.googleapis.com/drive/v3/files/1W9S1jFgVh5uk9FxBD6AnJqTqy8KUryGi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://savefilm21.skin/wp-content/uploads/2023/08/iclmQs4O5dy7EAkbykI1qkowfK2.jpg", I am Rage 2023
+https://www.googleapis.com/drive/v3/files/16rtscQ_FvugGesIlY1I__8AeW5QULuU5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://savefilm21.skin/wp-content/uploads/2023/07/epic-tails-pattie-et-la-colre-de-posidon.154-254195-170x255.jpg", Epic Tails 2023
+https://www.googleapis.com/drive/v3/files/1dVn1QYhzaW3bKvmkrCeWWVI9l3gGk_zo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://savefilm21.skin/wp-content/uploads/2023/07/gHkkHjygqfgLbC8ST3VTdGh2pwd.jpg", The Unseen 2023
+https://www.googleapis.com/drive/v3/files/1lcZHGWyuQuepauNz5ynm5o-2IggptVZD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://image.tmdb.org/t/p/w185/vxDIPfY2UCxSzuoxliuqyt57IoQ.jpg", Hidden Strike (Jackie Chan) 2023
+https://www.googleapis.com/drive/v3/files/1ZI3ZVcja4f-vqMuNPJ_UPvrGS1u4YbVw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://savefilm21.skin/wp-content/uploads/2023/06/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg", Little Mermaid 2023
+https://www.googleapis.com/drive/v3/files/1K0my3JWD88PgNKFoOZ-jJlqrnwfHIug9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="https://image.tmdb.org/t/p/w185/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg", Indiana Jones 2023
+https://www.googleapis.com/drive/v3/files/1y3pMyrnkhiCXVWoOYAxl0PZK9HLHUq7l?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+
+
+========
+
 
 
 
