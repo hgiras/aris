@@ -368,17 +368,17 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTINF:-1 tvg-id="beinsports.my" tvg-name="BEIN SPORTS HD" tvg-logo="https://www.visionplus.id/images/repository/564/200564-SNAPSHOT-l.png" group-title="Sports",BEIN SPORTS HD 
-http://line.megacdn.live:80/live/floriantahiri6/6647105600/191881.m3u8 
+http://sansat.cc:88/SEKEZ0OUDC/CZSYPYZLN6/126935 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="https://www.visionplus.id/images/repository/564/200564-SNAPSHOT-l.png" group-title="Sports",BEIN SPORTS 1 FHD 
-http://line.megacdn.live:80/live/floriantahiri6/6647105600/13120.m3u8 
+#http://line.megacdn.live:80/live/floriantahiri6/6647105600/13120.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://www.visionplus.id/images/repository/565/200565-SNAPSHOT-l.png" group-title="Sports",BEIN SPORTS 2 HD 
-http://line.megacdn.live:80/live/floriantahiri6/6647105600/29639.m3u8 
+http://sansat.cc:88/SEKEZ0OUDC/CZSYPYZLN6/126936 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://www.visionplus.id/images/repository/565/200565-SNAPSHOT-l.png" group-title="Sports",BEIN SPORTS 2 FHD 
-http://line.megacdn.live:80/live/floriantahiri6/6647105600/13119.m3u8 
+#http://line.megacdn.live:80/live/floriantahiri6/6647105600/13119.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://www.visionplus.id/images/repository/566/200566-SNAPSHOT-l.png" group-title="Sports",BEIN SPORTS 3 HD 
-http://line.megacdn.live:80/live/floriantahiri6/6647105600/29637.m3u8 
+http://sansat.cc:88/SEKEZ0OUDC/CZSYPYZLN6/126937 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://www.visionplus.id/images/repository/566/200566-SNAPSHOT-l.png" group-title="Sports",BEIN SPORTS 3 FHD 
-http://line.megacdn.live:80/live/floriantahiri6/6647105600/13118.m3u8
+#http://line.megacdn.live:80/live/floriantahiri6/6647105600/13118.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports",SpoTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -421,11 +421,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="FightSports" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://dl.dropbox.com/s/twee4scc14he4cc/images%20%281%29.jpeg" group-title="Sports",Fight Sports
-https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+#EXTINF:-1 tvg-id="FightSports" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.dens.tv/images/channel-logo/60.jpg" group-title="Sports",Fight Sports
+http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/20 22-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="Sports", TVRI Sport 
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/7aefbb0cf5cf2dd8bfc55516e278cb6f.png" group-title="Sports",DAZN 1
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/54437
@@ -589,11 +589,14 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157556
 #EXTINF:-1 tvg-id="" tvg-name="Astro Grandstand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/c51712f19f8e63a52275fc6410b89b32.png" group-title="Sports",Astro Grandstand 
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157557
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6sPvZmS/wsport.png" group-title="Sports", W-SPORT 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6sPvZmS/wsport.png" group-title="Sports", W-SPORT
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.dens.tv/images/channel-logo/123.jpg", W-Sport 
+http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=W-Sport|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
+====
 ======== HBO ==================
 
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="HBO",HBO
