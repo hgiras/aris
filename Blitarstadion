@@ -174,7 +174,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="https://saweria.co/ARMSTORE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXiWmIhBP7erl_X9Q47wO7UHdA-PjMtoEbLQ&s" group-title="https://saweria.co/ARMSTORE", saweria.co/ARMSTORE
-#https://drive.google.com/uc?id=1ByKCQQTirqdbSsYtTv7jOxL6Wx0dckRB&export=download
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=fals
+
 
 
 #EXTM3U
@@ -641,8 +642,11 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/20 22-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="Sports", TVRI Sport 
 #https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/7aefbb0cf5cf2dd8bfc55516e278cb6f.png" group-title="Sports",DAZN 1
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/54437
+#EXTINF:-1 tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2023/05/main64551cf91667f.jpg" group-title="Sports", DAZN F1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="Sports",RMC SPORT 1
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1937
@@ -1209,7 +1213,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
-###################################################################
+#################################################################
     ====================== News ========================>
 
 #EXTINF:-1 group-title="News" tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/Jakarta_globe_news_channel_id.png/640px-Jakarta_globe_news_channel_id.png",Jakarta GlobeNews Channel
@@ -1218,25 +1222,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32e
 #KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
 https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/494/982/png-transparent-united-states-voice-of-america-internet-radio-voa-amharic-broadcasting-united-states-text-logo-united-states.png" group-title="News",Voice Of America
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
-
 #EXTINF:-1 group-title="News" tvg-url="https://bit.ly/AstroEpg" tvg-name="CNN" tvg-country="ID" tvg-logo="https://w7.pngwing.com/pngs/335/473/png-transparent-cnn-international-fox-news-television-tv-channel-television-text-logo.png", CNN Int
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
 https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=59b86c4bc0dc5de64bdfafe5152cc8f1:014e41ad9ec2997fe29d3c3bc372491f
-#EXTINF:-1 group-title="News" tvg-id="AlJazeeraEnglish.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera
-https://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.dens.tv/images/channel-logo/56.jpg", Al Jazeera English
 http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
@@ -1244,11 +1234,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;user
 #EXTINF:-1 group-title="News" tvg-logo="https://www.dens.tv/images/channel-logo/27.jpg", Al Jazeera Arabic
 http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_Arabic|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=725ccd861fa88300c0e1d258b20bc9b1:ab190baece633191b7201cb96d065bbb
-#EXTINF:-1 tvg-id="CGTN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/87f1d571/242b_r32.jpg" group-title="News",CGTN
-https://cempedak-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="News" tvg-logo="https://www.dens.tv/images/channel-logo/56.jpg", Aljazeera
+http://dsgtq5sngxkde.cloudfront.net/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="News" tvg-logo="https://static.mncnow.id/images/channel/87f1d571/242b_r32.jpg", CGTN
+http://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN/sa_dash/CGTN.mpd
 
 #EXTINF:-1 tvg-name="Bloomberg" tvg-id="BloombergTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bloomberg.png" group-title="News",Bloomberg
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1262,20 +1258,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
 https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
 
-#EXTINF:-1 group-title="News" tvg-logo="https://www.dens.tv/images/channel-logo/77.jpg", NHK WORLD-JAPAN  
-http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NHK_WORLD-JAPAN|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a56d6a274eb073cdf94754bd0ffe3335:10ad173ac7249bc42c8390c090ca09e3
-#EXTINF:-1 group-title="News" tvg-id="NHKWorldPremium" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
-https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a547a31e9c19c36f94d120a83f61f92d:7e86ccfba721e3297b73fc9e2b07628d
-#EXTINF:-1 tvg-name="" tvg-id="FOX News - [Channel 335].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png" group-title="News",FOX News
-https://cempedak-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="berita satu" tvg-logo="https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png", FOX News
+http://dsgtq5sngxkde.cloudfront.net/live/eds/FoxNews/sa_dash/FoxNews.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1285,21 +1272,19 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 #EXTINF:-1 group-title="News" tvg-logo="https://www.dens.tv/images/channel-logo/81.jpg", DW-TV
 http://op-group2-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DW-TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2968b8d8884c66ebfc54b53bee1070ee:7182638b386cb06e211b6771c1a10861
-#EXTINF:-1 group-title="News" tvg-id="France24English" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg",France 24
-#https://cempedak-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
-#EXTINF:-1 group-title="News" tvg-logo="https://www.dens.tv/images/channel-logo/69.jpg", France 24
-http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=France_24|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="News" tvg-logo="https://www.dens.tv/images/channel-logo/69.jpg", FRANCE 24
+http://dsgtq5sngxkde.cloudfront.net/live/eds/France24/sa_dash/France24.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9acec565e4d5e994523b3b18e0a7521e:a16eb03e31229b194ec4b45c3cb80b46
-#EXTINF:-1 group-title="News" tvg-id="Euronews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",Euronews
-https://cempedak-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="berita satu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png", Euronews
+http://dsgtq5sngxkde.cloudfront.net/live/eds/EuroNews/sa_dash/EuroNews.mpd
 
-#EXTINF:-1 group-title="News" tvg-logo="https://www.dens.tv/images/channel-logo/90.jpg", TV5MONDE ASIE
+#EXTINF:-1 group-title="News" tvg-logo="https://www.dens.tv/images/channel-logo/90.jpg", TV5MONDE
 http://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TV5MONDE_ASIE|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:-1 tvg-name="" tvg-id="BBCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="News",BBC World
@@ -1307,12 +1292,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8?app_type=web&amp;useri
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
 https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2664cc86dfb0f48e6b3f792dd4e8983c:5fc5b980db05c4450482b4bd7cda39fe
-#EXTINF:-1 group-title="News" tvg-id="TRT World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://www.dens.tv/images/channel-logo/41.jpg",TRT World 
-https://cempedak-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.dens.tv/images/channel-logo/41.jpg", TRT World
 http://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TRT_World|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
@@ -1322,30 +1301,54 @@ http://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 group-title="News" tvg-logo="https://www.dens.tv/images/channel-logo/104.jpg", FREEDOM
 http://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FREEDOM|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
-#EXTINF:-1 tvg-id="SEAToday" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg" group-title="News",SEA Today 
-#https://cempedak-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
-https://hls.seatoday.com/hls_hd/seatoday.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg" group-title="News",SEA Today
+http://dsgtq5sngxkde.cloudfront.net/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6de9ad0c51e2673f543b71ac5a54211:533886c95819317d48fd079d78c3d757
-#EXTINF:-1 group-title="News" tvg-id="CNBCAsia.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png",CNBC Asia
-https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
-#EXTINF:-1 group-title="News" tvg-id="CNA.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/f36bdbf0/d7d8_r32.jpg",CNA
-https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png", CNBC
+http://dsgtq5sngxkde.cloudfront.net/live/eds/CNBC/sa_dash/CNBC.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.dens.tv/images/channel-logo/61.jpg", CNA
 http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CNA|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.dens.tv/images/channel-logo/132.jpg", DIM TV
 http://op-group1-swiftservehd-1.dens.tv/h/h232/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DIM_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+
+#########################################################
+                 ===========RELIGI=========
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://dl.dropboxusercontent.com/s/l32842tfi69ov6h/tawaftv.png",Tawaf TV
+http://cdn.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://dl.dropboxusercontent.com/s/9xmttnf6a6h7d8x/mekkah.png",Al Quran Al Kareem
+https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/45153dc2a9be308598afe5a55625562fa920f606/f74b5dff8b8e6c6.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9r0wxfu0iyp0cq1/tv9.png" group-title="RELIGI" tvg-id="TV9Nusantara.id" tvg-name="TV9 Nusantara", TV9 Nusantara
+https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/938bb823da18f400de1fdeec9b5fabb9119ffe4b/ca07a749e91966b.m3u8
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://dl.dropboxusercontent.com/s/69y8l3z8w0id36n/mqtv.png",MQ TV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/35585d8e850920bf6783adecbd07a4779ed01bd1/55b1da7f755ebf7.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Vatwmkj.png?v=1.0.0.1" group-title="RELIGI" tvg-id="muitv" tvg-name="MUI TV", MUI TV
+https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/66ff888b79e2838c3ddc5fbb9d26df1e96a81cc6/71b5c8483161297.m3u8
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.dens.tv/images/channel-logo/78.jpg", TBN
+http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TBN|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #####################################################################################
 <=================== Entertainment & Lifestyle =============================>
@@ -1595,75 +1598,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png",Lingua Channel
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
-########################################################         
-                 ===========RELIGI=========
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://dl.dropboxusercontent.com/s/l32842tfi69ov6h/tawaftv.png",Tawaf TV
-http://cdn.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI"group-title="RELIGI" tvg-logo="https://dl.dropboxusercontent.com/s/l32842tfi69ov6h/tawaftv.png", Tawaf TV
-https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://dl.dropboxusercontent.com/s/9xmttnf6a6h7d8x/mekkah.png",Al Quran Al Kareem
-https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/45153dc2a9be308598afe5a55625562fa920f606/f74b5dff8b8e6c6.m3u8
-  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI"group-title="RELIGI" tvg-logo="https://dl.dropboxusercontent.com/s/sx0hr3oepuvfop2/muslimtv.png", Muslim TV
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd|Referer=https://www.visionplus.id
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9r0wxfu0iyp0cq1/tv9.png" group-title="RELIGI" tvg-id="TV9Nusantara.id" tvg-name="TV9 Nusantara", TV9 Nusantara
-https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/938bb823da18f400de1fdeec9b5fabb9119ffe4b/ca07a749e91966b.m3u8
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://dl.dropboxusercontent.com/s/69y8l3z8w0id36n/mqtv.png",MQ TV
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/35585d8e850920bf6783adecbd07a4779ed01bd1/55b1da7f755ebf7.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/45lg2dmiccusryz/tvmu.png" group-title="RELIGI" tvg-id="Muhammadiyah TV" tvg-name="Muhammadiyah TV", tvMu
-https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/8cf53f05d87604077263b7b82516b1b7c63b5cea/MQGHZhlYFicsYHQ.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Vatwmkj.png?v=1.0.0.1" group-title="RELIGI" tvg-id="muitv" tvg-name="MUI TV", MUI TV
-https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/66ff888b79e2838c3ddc5fbb9d26df1e96a81cc6/71b5c8483161297.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI"group-title="RELIGI" tvg-logo="https://dl.dropbox.com/s/hykk6jkz3r3hwit/Screenshot_20230215_165009_Chrome.jpg", LIFE
-https://cempedak-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://dl.dropbox.com/s/0uylvn2tkief0qp/images%20%281%29.jpeg", EWTN
-https://cempedak-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://dl.dropbox.com/s/yq2y0nms2wdixox/images%20%282%29.jpeg", REMOFED 21
-https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.dens.tv/images/channel-logo/78.jpg", TBN
-http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TBN|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-
 ########################################################################
-======================= China ====================================>
+   ======================= China ====================================>
 
 #EXTINF:-1 group-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="China" tvg-name="" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/800px-Jiangsu_Broadcasting_Corporation.svg.png",Jiangsu TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1736,9 +1672,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 #KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="China", Macau TV
-http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
-
 #EXTINF:-1 group-title="China" tvg-url="https://bit.ly/UnifyEpg" tvg-id="CCTV-4" tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest/scale-to-width-down/250?cb=20200119091533",CCTV 4
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1746,15 +1679,12 @@ http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
 
 
-
-
-==========KOREAN==========
-
-#EXTINF:-1 tvg-id="tvN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/999/49999-SNAPSHOT-l.png" group-title="Korean",TVN
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+ ################################################################          
+            ==========KOREAN==========
+#EXTINF:-1 tvg-id="59" tvg-logo="https://www.visionplus.id/images/repository/999/49999-SNAPSHOT-l.png" group-title="Korean", TvN
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
 
 #EXTINF:-1 tvg-id="tvNMovies.kr" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korean",TvN movies HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1762,13 +1692,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Korean" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png",TVN Movies Indonesia
-https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korean",TVN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD|user-agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="Korean" tvg-id="ONE.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/3ad70848/b686_r32.jpg",ONE
+#EXTINF:-1 group-title="Korean" tvg-id="ONE.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",ONE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
@@ -1817,144 +1745,11 @@ http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV-SBS" tvg-logo="https://i.imgur.com/byss0Ld.png" group-title="Korean",JTV-SBS
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CJB-SBS" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="Korean",CJB-SBS
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="JLBS-SBS" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="Korean",JLBS-SBS
 http://123.140.197.22/stream/1/play.m3u8
 
 
  ===================GABUT===============
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Ge Er (Gede Rasa) (1980) SUB INDO
-http://abf.filmbluray.id/1td6drb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Gengsi Dong (1980) SUB INDO
-http://abf.filmbluray.id/pc5hdir
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Pintar Pintar Bodoh (1980) SUB INDO
-http://abf.filmbluray.id/u4hspqy
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", IQ Jongkok (1981) SUB INDO
-http://abf.filmbluray.id/osrg3o1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Chips (1982) SUB INDO
-http://abf.filmbluray.id/kw19hjb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Maju Kena Mundur Kena (1983) SUB INDO
-http://abf.filmbluray.id/jkvjjin
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Pokoknya Beres (1983) SUB INDO
-http://abf.filmbluray.id/zxfzjhm
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Itu Bisa Diatur (1984) SUB INDO
-http://abf.filmbluray.id/do3ugxv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Tahu Diri Dong (1984) SUB INDO
-http://abf.filmbluray.id/u752m23
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Gantian Dong (1985) SUB INDO
-http://abf.filmbluray.id/rq99s97
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Kesempatan Dalam Kesempitan (1985) SUB INDO
-http://abf.filmbluray.id/f7gfa43
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Sama Juga Bohong (1986) SUB INDO
-http://abf.filmbluray.id/7e8joq7
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Depan Bisa Belakang Bisa (1987) SUB INDO
-http://abf.filmbluray.id/zobm5cs
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Bisa Naik Bisa Turun (1991) SUB INDO
-http://abf.filmbluray.id/94cu9o0
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Bebas Aturan Main (1993) SUB INDO
-http://abf.filmbluray.id/qn276o5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Salah Masuk (1993) SUB INDO
-http://abf.filmbluray.id/o6gedd9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Pencet Sana Pencet Sini (1994) SUB INDO
-http://abf.filmbluray.id/wxvxwdc
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Saya Duluan Dong (1994) SUB INDO
-http://abf.filmbluray.id/w26tyv5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/dkireborn.png", Warkop DKI Reborn (2019) SUB INDO
-http://abf.filmbluray.id/zcricf6
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x1.png", First Class (2011) SUB INDO
-http://abf.filmbluray.id/7rmsohz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x2.png", Days Of Future Past (2014) SUB INDO
-http://abf.filmbluray.id/si8qn6f
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x3.png", Origins : Wolverine (2009) SUB INDO
-http://abf.filmbluray.id/vx876ik
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x4.png", X-Men (2000) SUB INDO
-http://abf.filmbluray.id/50nk3d9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x5.png", United (2003) SUB INDO
-http://abf.filmbluray.id/l6s52j5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x6.png", The Last Stand (2006) SUB INDO
-http://abf.filmbluray.id/flseggq
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x7.png", The Wolverine (2013) SUB INDO
-http://abf.filmbluray.id/2aophnl
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x8.png", Deadpool 1 (2016) SUB INDO
-http://abf.filmbluray.id/ien08zj
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/newmutant.png", The New Mutants (2020) SUB INDO
-http://abf.filmbluray.id/93jqnt9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x9.png", Deadpool 2 (2018) SUB INDO
-http://abf.filmbluray.id/axho5vz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x10.png", Logan (2017) SUB INDO
-http://abf.filmbluray.id/ob6xz80
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x11.png", Apocalypse (2016) SUB INDO
-http://abf.filmbluray.id/n377lc2
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/X-Men-Dark-Phoenix.png", Dark Phoenix (2019) SUB INDO
-http://abf.filmbluray.id/n30psdu
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Ge Er (Gede Rasa) (1980) SUB INDO
-http://abf.filmbluray.id/1td6drb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Gengsi Dong (1980) SUB INDO
-http://abf.filmbluray.id/pc5hdir
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Pintar Pintar Bodoh (1980) SUB INDO
-http://abf.filmbluray.id/u4hspqy
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", IQ Jongkok (1981) SUB INDO
-http://abf.filmbluray.id/osrg3o1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Chips (1982) SUB INDO
-http://abf.filmbluray.id/kw19hjb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Maju Kena Mundur Kena (1983) SUB INDO
-http://abf.filmbluray.id/jkvjjin
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Pokoknya Beres (1983) SUB INDO
-http://abf.filmbluray.id/zxfzjhm
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Itu Bisa Diatur (1984) SUB INDO
-http://abf.filmbluray.id/do3ugxv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Tahu Diri Dong (1984) SUB INDO
-http://abf.filmbluray.id/u752m23
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Gantian Dong (1985) SUB INDO
-http://abf.filmbluray.id/rq99s97
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Kesempatan Dalam Kesempitan (1985) SUB INDO
-http://abf.filmbluray.id/f7gfa43
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Sama Juga Bohong (1986) SUB INDO
-http://abf.filmbluray.id/7e8joq7
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Depan Bisa Belakang Bisa (1987) SUB INDO
-http://abf.filmbluray.id/zobm5cs
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Bisa Naik Bisa Turun (1991) SUB INDO
-http://abf.filmbluray.id/94cu9o0
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Bebas Aturan Main (1993) SUB INDO
-http://abf.filmbluray.id/qn276o5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Salah Masuk (1993) SUB INDO
-http://abf.filmbluray.id/o6gedd9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Pencet Sana Pencet Sini (1994) SUB INDO
-http://abf.filmbluray.id/wxvxwdc
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/warkop.png", Saya Duluan Dong (1994) SUB INDO
-http://abf.filmbluray.id/w26tyv5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/dkireborn.png", Warkop DKI Reborn (2019) SUB INDO
-http://abf.filmbluray.id/zcricf6
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x1.png", First Class (2011) SUB INDO
-http://abf.filmbluray.id/7rmsohz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x2.png", Days Of Future Past (2014) SUB INDO
-http://abf.filmbluray.id/si8qn6f
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x3.png", Origins : Wolverine (2009) SUB INDO
-http://abf.filmbluray.id/vx876ik
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x4.png", X-Men (2000) SUB INDO
-http://abf.filmbluray.id/50nk3d9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x5.png", United (2003) SUB INDO
-http://abf.filmbluray.id/l6s52j5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x6.png", The Last Stand (2006) SUB INDO
-http://abf.filmbluray.id/flseggq
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x7.png", The Wolverine (2013) SUB INDO
-http://abf.filmbluray.id/2aophnl
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x8.png", Deadpool 1 (2016) SUB INDO
-http://abf.filmbluray.id/ien08zj
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/newmutant.png", The New Mutants (2020) SUB INDO
-http://abf.filmbluray.id/93jqnt9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x9.png", Deadpool 2 (2018) SUB INDO
-http://abf.filmbluray.id/axho5vz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x10.png", Logan (2017) SUB INDO
-http://abf.filmbluray.id/ob6xz80
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/x11.png", Apocalypse (2016) SUB INDO
-http://abf.filmbluray.id/n377lc2
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ARMStore" tvg-logo="http://pictures.my.id/images/X-Men-Dark-Phoenix.png", Dark Phoenix (2019) SUB INDO
-http://abf.filmbluray.id/n30psdu
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lmPlqROh8byvjOs_nWpMMDX7_q3RIBsMTA&usqp=CAU" group-title="ARMStore",The Super Mario Bross Movie (2023)
 https://www.dropbox.com/s/jcq80k98w4al71r/driveid-160454-hdrip-1080-terbit21-com-the-super-mario-bros-movie-2023.mp4?dl=1
