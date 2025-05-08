@@ -1047,9 +1047,8 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/86555c60e79d125.m3u8
 #EXTINF:-1, tvg-id="IndiKids" tvg-name="IndiKids" group-title="Kids" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" tvg-chno="109", Fun Planet
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/iIkcrZF.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="Biznet Kids", B Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltEXMZMIQR4bLtcC9ESqtNzhoF-D4ud3ecg&s" group-title="Kids",BIZNET KIDS HD
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
