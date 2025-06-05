@@ -115,7 +115,7 @@
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="🔴NASIONAL",MNCTV
 https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://bit.ly/IndonesiaEpg" tvg-url="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png", MNCTv 
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png", MNCTv 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -691,14 +691,13 @@ https://windnew.newkso.ru/wind/premium260/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
 
-#EXTINF:-1 cuid="1522" tvg-name="MAVTV" tvg-id="65a6818c7bdc8d0008457b21" tvg-logo="https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG.png" group-title="​Sports",MAVTV
+#EXTINF:-1 cuid="1522" tvg-name="MAVTV" tvg-id="65a6818c7bdc8d0008457b21" tvg-logo="https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG.png" group-title="Sports",MAVTV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457b21livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
 
 #EXTINF:-1 cuid="1526" tvg-name="Hagerty" tvg-id="USBD4200011W4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200011W4_20240709T002126SQUARE.png" group-title="​Sports",Hagerty
 https://dqw6u0upa8l21.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0etl87ne2tj77/Hagerty.m3u8
 
-#EXTINF:-1 cuid="1527" tvg-name="FORMULA 1 Channel" tvg-id="65c69ee3d77d450008c80438" tvg-logo="https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png" group-title="​Sports",FORMULA 1 Channel
+#EXTINF:-1 cuid="1527" tvg-name="FORMULA 1 Channel" tvg-id="65c69ee3d77d450008c80438" tvg-logo="https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png" group-title="Sports",FORMULA 1 Channel
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 cuid="1529" tvg-name="Speed Sport 1" tvg-id="6675b8ccca74680008563c24" tvg-logo="https://images.pluto.tv/channels/6675b8ccca74680008563c24/colorLogoPNG.png" group-title="​Sports",Speed Sport 1
@@ -707,7 +706,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6675b8ccca74680008563
 #EXTINF:-1 cuid="1534" tvg-name="Garage TV" tvg-id="El.Garage.TV.-.South.(Latin.America).(GARAG).ar" tvg-logo="http://elgarage.com/wp-content/uploads/2021/04/favicon-150x150.png" group-title="​Sports",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 cuid="1537" tvg-name="Warner Bros TV Motorheads" tvg-id="mjh-discovery-fast1" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1701633988394/20231204T090843_motorheadslogo.png" group-title="​Sports",Warner Bros TV Motorheads
+#EXTINF:-1 cuid="1537" tvg-name="Warner Bros TV Motorheads" tvg-id="mjh-discovery-fast1" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1701633988394/20231204T090843_motorheadslogo.png" group-title="Sports",Warner Bros TV Motorheads
 https://mediapackage-azf1-source.fullscreen.nz/index.m3u8
 
 #EXTINF:-1 cuid="1538" tvg-name="Motor Racing" tvg-id="GBBA1500006H6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA1500006H6_20240321T045931SQUARE.png" group-title="​Sports",Motor Racing
