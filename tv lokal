@@ -449,6 +449,12 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-id="Bali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://stream.staratv.id/logo/external",STARA TV 
 https://stream.staratv.id/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqCqbqqk/tv-tabalong.png" group-title="🔴NASIONAL",TV TABALONG
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#https://ugtv.co.id/
+#EXTINF:0 tvg-id="UGTV.id" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="🔴NASIONAL",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 ############################################        
           ========SPORT========
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
