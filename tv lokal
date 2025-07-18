@@ -254,11 +254,6 @@ https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1 tvg-id="MDTV.id" group-title="NASIONAL🔵" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/348/2025/02/25/6190412213303492665-3435062896.jpg",MDTv
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="NASIONAL🔵" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png",SindoNews
-https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
-
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg" group-title="NASIONAL🔵", MOJI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -275,6 +270,18 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="NASIONAL🔵" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png",SindoNews
+https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
+#EXTINF:-1 group-title="NASIONAL🔵" tvg-id="IDX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
+https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78YtG5kGQt19g0Kn6kBmKHRsicsicWnQKWA&s" group-title="NASIONAL🔵",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
@@ -456,8 +463,14 @@ https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bandung TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="NASIONAL🔵",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA1-cIOyrVimqBzcvBla47B2QIxgxlQRSZ0o7ARgc-72x4W6qCbzT2NAGMidNDURXG77qAcrcQitiTzLyOPeu_U_vqaubqwE6TVD66YFNB8Z6JVcu3czsPFe4djthynTfv1jwLCdZEU-vJYjVojiuZzpR155AhpBSFm26-VzwYUbpzzl-Yen4KVZ236pLY/s700/CARUBAN%20TV.png" group-title="NASIONAL🔵",CARUBAN TV
+https://stream.carubantv.id/hls/0/stream.m3u8
+
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01g6g57e4s2dby94majz97a98j.jpg",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2Jyq5d7hlUjXVlrDtwOToIqAy9FO9KI43U2J2SBBvcKhNgsxSzwnuK7MMR4VNdcSm0_g5aBVt_vHHpkESI-835UHAw1Eb6FDIHKGooih2W4kiPg8LyJ52cP5WdapqYTenvIPIvfWkj5XvAGdL_qgUr9QxBuDOlu4sHa9ZP5bMX1kAkDL9hsc3vOJHQ/s1600/arek%20%281%29.jpg",Arek TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #EXTINF:-1 tvg-id="DMTVMalang.id@SD" tvg-logo="https://i.imgur.com/3iC41QX.png" group-title="NASIONAL🔵",DM TV
 https://e.siar.us/live/dmtv.m3u8
@@ -544,6 +557,21 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856ea34e35016ef8e9fdf951c1/e55ef2d8ea58482b8b3f5f0e77c079ef.png" group-title="NASIONAL🔵" tvg-id="DuniaLain.id" tvg-name="Dunia Lain", Dunia Lain
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii_uyzUPwSl51JIbksTd8-s1j-v9s_lf1Cf7slz272iX8TltUKZ7v19lbxSCftRWtsYDT9cEYmhXRTjTKKzRHG8iHFADYikjaBE856rIAtCZ7c5XtnQuvcmTlVbBcGLnviz-SiGUObDrRGok27BmYl7MqTftvE4ZX-u6VHxmoZZPwhQFIEYw7pqJKURSB7/s700/PKTV.png" group-title="NASIONAL🔵",PKTV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk1VzctOSJU7-V6EHGuuIwsIlH-yXkO5BbkHDHksLtyHEd0ScqH1voJQqNgiQ0CPtYwjFV8sMshtxO9LRLrBA-ikH52rfUxYSFfdykjuNutm8mXHyJom5vTRCM5ua5Yeil1qkLQHeILJh9sDjaPInK79No7Yk_HVNhtagbfaeeJldRDLD5jkowJD1ZmIB6/s700/PRIMA%20TV.png" group-title="NASIONAL🔵",PRIMA TV
+https://primatv.siar.us/primatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheFFtTweGkTgYliDYV4xwDOpla_yID6dshuD_Tjia0_uWkV_8FTGeDsnoDAaeQm6vidrGCJZTThhO5MbMfR-BPEYPerRjViAFMntoEguQFHmjP6jKKSccmCAcZpX6VYRmnKVNRCSmnmssnpF4KItl9vOGzzXHmtnmX6gbqk1F8IL6pdDtlmERNRT-b7QmB/s700/SEMARANG%20TV.png" group-title="NASIONAL🔵",SEMARANG TV
+http://116.254.112.74:80/hls/cakralive.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN9WcyzkP0TcsnIKSGQWdGsDNQTBUtJ4xi44QF_BJ044clrzHtnde30G8fqkeBAm653ruTNubyq0vOcWas-3oUPa8HZLL__9Qon_jRoyCFJHY42K4X7NEznoJXhfcsUKcnBRo1Axx_FCVHQycGYcoUREiy9wzozfFL5Qp4INTi6GoWO1bb3PgUHnX-IJVC/s700/TATV.png" group-title="NASIONAL🔵",TATV
+https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje10grhwE80k4GDAiDfHnVrhYq_0kJ7vAfPI8NsAYnJ01WH_PgFMk7TSagHHtjKGd368OyCFpql_BG2Z_xfBFmNG4xgj6sXxACNeygZYjgIlPjtBhWZPjbz80MaRS-dd9dDmbJ8pVqmaoU7k4Y8XXPPiDMew3YnQNF6QpTY9DxI_TCCwQ_TI6K0t2VF8Rj/s700/SANGAJI%20TV.png" group-title="NASIONAL🔵",SANGAJI TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 ############################################        
           ========SPORT========
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
