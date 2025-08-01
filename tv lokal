@@ -331,6 +331,12 @@ http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
 #http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843g.m3u8 
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTINF:-1 group-title="NASIONAL🔵" tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/GqoHXLz.png",Antara TV
+http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/32586
+
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-id="JTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://i.imgur.com/TVWQZxz.png",JTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -498,7 +504,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/in
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/rLLEo6Y.png" group-title="NASIONAL🔵",Bungo TV
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/NHyRbz5.png" group-title="NASIONAL🔵",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Banjar TV - [Channel 80].id" tvg-url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcGqENIZcD6CDqZDPNoXmw3-xi2ufKOP1yg&usqp=CAU"  tvg-logo="https://i.imgur.com/pSXtkBQ.png" group-title="NASIONAL🔵",BANJAR TV
@@ -533,12 +539,12 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVKU" tvg-name="TVKU" tvg-logo="https://i.imgur.com/aQ73kDT.png" group-title="NASIONAL🔵", TVKU
 https://tvku.tv/hlsstream/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VmtSZea.png" group-title="NASIONAL🔵",Dhamma TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5lpxdEB.png" group-title="NASIONAL🔵",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mfRJRWZ.png" group-title="NASIONAL🔵" tvg-id="DuniaLain.id" tvg-name="Dunia Lain", Dunia Lain
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g0jjfW9.png" group-title="NASIONAL🔵" tvg-id="DuniaLain.id" tvg-name="Dunia Lain", Dunia Lain
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FmozOWH.png" group-title="NASIONAL🔵",PKTV
@@ -568,7 +574,7 @@ https://e.siar.us/live/dtvi.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/whWDMMJ.png" group-title="NASIONAL🔵",RADAR TV TASIKMALAYA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sf9MhbJ.png" group-title="NASIONAL🔵",RADAR TV TASIKMALAYA
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmHptx7.png" group-title="NASIONAL🔵" ,RUAI TV
@@ -592,7 +598,6 @@ https://flv.intechmedia.net/live/ch18.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0i9aJ62.png" group-title="NASIONAL🔵",JAYA TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch52.m3u8
-
 
 #####################################################        
           ========SPORT========
