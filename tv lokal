@@ -2609,7 +2609,7 @@ https://hls.yourtime.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
 https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
+#EXTINF:-1 group-title="SINGAP0RE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
 https://dl.dropboxusercontent.com/scl/fi/zyykqlep2ajxcw42h87n2/sg_channel_8.m3u8?rlkey=2uwq4nj3tb9tfhs1ecxuqqwxc
 
 #EXTINF:-1 group-title="SINGAP0RE" tvg-url="https://bit.ly/SingaporeEpg" tvg-id="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",Channel U
@@ -2647,50 +2647,23 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 
 ########################### TAIWAN #########################
-#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952"url-tvg="https://epg.pw/api/epg.xml?channel_id=369239,https://epg.pw/api/epg.xml?channel_id=370172,https://epg.pw/api/epg.xml?channel_id=370139,https://epg.pw/api/epg.xml?channel_id=368952" refresh="1440" max-conn="1" refresh="24"
-
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
-https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv002
 https://dl.dropboxusercontent.com/scl/fi/b9d0ol7zb9scf3rtn0fau/formosa2.m3u8?rlkey=pjyuk5bt888nrvntk4cmj35hs&st=pzherhdc
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
 https://dl.dropboxusercontent.com/scl/fi/bbbjri75yeujzzgznz7ww/formosa.m3u8?rlkey=7zrzw3flwwh9wg4zj8vd2a75m&st=szmnbkso
 
-#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/0ovGg1P.jpeg",民視旅遊台
 https://4gtv.858.qzz.io/judy.php?id=litv-ftv07
 
 #EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg", 民視台灣台
-https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv001
 http://smart.cityq.xyz:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-
-#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
-https://4gtv.858.qzz.io/judy.php?id=litv-ftv09
-
-#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
-https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv003
-
-#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",民視綜藝台
-https://4gtv.858.qzz.io/judy.php?id=4gtv-4gtv004
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
-https://dl.dropboxusercontent.com/scl/fi/ps2ksr965uuz0j8j64qpu/sanlitaiwan.m3u8?rlkey=to6lxy7du9ioofb06cpoa5hyj&st=i893df9j
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", 三立台灣台
 https://dl.dropboxusercontent.com/scl/fi/hztiivlvmngem2n2x4q0b/sanlitaiwan2.m3u8?rlkey=zaiaqx1rx7pzz3pmf0nj9sqk6&st=qtwqh7dm
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="TAIWAN / HK",SET 三立综合台
-https://4gtv.858.qzz.io/judy.php?id=4gtv-live207
-https://dl.dropboxusercontent.com/scl/fi/xe0gq6qjued6f51k8izo4/sanlizhonghe.m3u8?rlkey=7mfpx9y3kktsrrwd5ka5dafjs&st=1qh5i2e0
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/N7lGEq1.jpeg" group-title="TAIWAN / HK", SET METRO 三立都會台
-http://66.90.99.154:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
 http://smart.cityq.xyz:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/5uAIjqL.jpeg" group-title="TAIWAN / HK", SET iNEWS 三立新聞台
-https://4gtv.858.qzz.io/judy.php?id=4gtv-live089
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WEWJbRx.png" group-title="TAIWAN / HK", 台视
 http://66.90.99.154:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
