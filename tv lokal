@@ -488,6 +488,9 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 #EXTINF:-1 tvg-id="DMTVMalang.id@SD" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.Wb-w32e_hZQsUEwspGKUqAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="NASIONAL🔵",SANGAJI
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv_mid.m3u8
 
+#EXTINF:-1 tvg-id="DMTVMalang.id@SD" tvg-logo="https://th.bing.com/th/id/R.18d5c4f6ed24030fdc520e55260510ed?rik=ODpbyBznhHSWHw&riu=http%3a%2f%2fjogjatv.tv%2fwp-content%2fuploads%2f2015%2f08%2fLOGO-JOGJA-TV-NEW-pii-new.png&ehk=mtSgf1%2f56dUYMWOAxHzJ57cfHDBv2KYkJ67%2b66S18og%3d&risl=&pid=ImgRaw&r=0" group-title="NASIONAL🔵",JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
 #EXTINF:-1 tvg-id="DMTVMalang.id@SD" tvg-logo="https://photos.live-tv-channels.org/tv-logo/id-sriwijaya-tv-8191-1024x768.jpg" group-title="NASIONAL🔵",SRIWIJAYA
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 
@@ -560,12 +563,12 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://103.140.188.211:1935/radarlampungtv/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sf9MhbJ.png" group-title="NASIONAL🔵",RADAR TV TASIKMALAYA
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/mOE8itl.png",DTVI
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://e.siar.us/live/dtvi.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sf9MhbJ.png" group-title="NASIONAL🔵",RADAR TV TASIKMALAYA
-#https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmHptx7.png" group-title="NASIONAL🔵" ,RUAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -580,6 +583,9 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CftewQc.png" group-title="NASIONAL🔵",HUMA BETANG TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-BjOCcfscfd8/Tww9EBiC07I/AAAAAAAAAWY/1OLDqdjqulk/s1600/CELEBES+TV+LOGO.png" group-title="NASIONAL🔵",CELEBES
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/21ta4QJ.png" group-title="NASIONAL🔵" ,PAL TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -618,6 +624,10 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1267801285
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2403UeJ10gquJWdTP361RZdej2P0DW9NroMYfw2uoQxFudZXNNVxKEs14W2RLdtzWdTGCPwCu-AYHUhNUZmgjTAUl4mqI0iHytsS4xzG5DS5tdPcNtHfBczSI8NIpaVzcG2YCZ5UQ-dR657pDeR1sIYzMfCvyWf2mOwZcEoedissuV4Q9yh2QqZYWJ-ob/s700/TV%20PARLEMEN.png" group-title="NASIONAL🔵",TVR PARLEMEN
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gdk1toP3uBA/maxresdefault.jpg" group-title="NASIONAL🔵",RRI NET
+http://privat-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+
 #####################################################        
           ========SPORT========
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1703,6 +1713,9 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/ind
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h232/S4/mnf.m3u8
 
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.tvfFr9ZTTFP3WoEbtxei3wHaDL?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="RELIGI", U CHANNEL
+http://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
+
 #EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/UrUb5tW.png" group-title="RELIGI",EWTN
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2337,6 +2350,9 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 
 #EXTINF:-1 tvg-id="BBSTV.kr" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="Korean",BBS TV
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBSTV.kr" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.vh7k1VnfRfpnuB0EVjMaJwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Korean",LOTTE ONE
+http://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4_1.m3u8
 
 #EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="Korean",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
