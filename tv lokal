@@ -485,6 +485,12 @@ https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/3W59teE.png",JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 
+#EXTINF:-1 tvg-id="DMTVMalang.id@SD" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.Wb-w32e_hZQsUEwspGKUqAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="NASIONAL🔵",SANGAJI
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv_mid.m3u8
+
+#EXTINF:-1 tvg-id="DMTVMalang.id@SD" tvg-logo="https://photos.live-tv-channels.org/tv-logo/id-sriwijaya-tv-8191-1024x768.jpg" group-title="NASIONAL🔵",SRIWIJAYA
+https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="KTV" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.u95NCZ2KTssM2wb1M2L4tQHaD1?cb=12&w=580&h=300&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="NASIONAL🔵", KTV
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
