@@ -2268,6 +2268,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 
+#EXTINF:-1 tvg-id="BTN.kr" tvg-logo="https://onlinetvplayer.com/images/logos/r1225j10.png" group-title="Korean",BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive2m/chunklist_w719715885.m3u8
+
 #EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/M8OvhGV.jpeg" group-title="Korean",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
@@ -2287,6 +2290,9 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/chunklist_b414000.m3u8
 #EXTINF:-1 group-title="Korean"  tvg-id="sbs.kr" tvg-logo="https://canlitv.com/kanal/logo/381.jpg",SBS UBC
 https://stream.ubc.co.kr/hls/ubctvstream/1_2/index.m3u8?tkn=2053981286
 
+#EXTINF:-1 group-title="Korean"  tvg-id="sbs.kr" tvg-logo="https://i.ytimg.com/vi/3242wer-wT0/hqdefault.jpg",SBS KBC
+https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w455601957.m3u8
+
 #EXTINF:-1 group-title="Korean" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNWtsSt3bphx8j6iK4ikDhkiZxGOyzNggFog&s", WBC TV
 #EXTVLCOPT:http-origin=https://tv.garden
 #EXTVLCOPT:http-referrer=https://tv.garden/
@@ -2303,6 +2309,15 @@ https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGN
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CJ.kr" tvg-logo="https://dm3yrk3qb82fp.cloudfront.net/works/0964932f-9c3a-46e8-b699-22fb171d2e76.png" group-title="Korean",CJ OnStyle
+http://live-ch1.cjonstyle.net/cjmalllive/stream2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CJ.kr" tvg-logo="https://th.bing.com/th/id/R.b9c551a56194180a62cdea0151affdf5?rik=NtFMG1D%2fHjB2rQ&riu=http%3a%2f%2fciptv.org%2fwp-content%2fuploads%2fCJONSTYLE-1.png&ehk=IG7JIMtSMQK%2bz7nj6%2fV7Bt7B67C8KtXoA%2baaMhAYbMk%3d&risl=&pid=ImgRaw&r=0" group-title="Korean",CJ OnStyle Plus
+http://live-ch2.cjonstyle.net/cjosplus/live2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Korean"  tvg-id="FGTV.kr" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.G2kZZj9ovOeJ00qhbxYqZQAAAA?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/chunklist_b296000.m3u8
+
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/k42eUiS.jpeg" group-title="Korean",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #https://cdn-01.bonus-tv.ru/arirang_edge/tracks-v1a1/mono.m3u8
@@ -2315,11 +2330,11 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 #EXTINF:-1 tvg-id="BBSTV.kr" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="Korean",BBS TV
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBSTV.kr" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.vh7k1VnfRfpnuB0EVjMaJwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Korean",LOTTE ONE
+#EXTINF:-1 tvg-id="LOTTE.kr" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.vh7k1VnfRfpnuB0EVjMaJwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Korean",LOTTE ONE
 http://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4_1.m3u8
 
-#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="Korean",ABN
-https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-id="LOTTE.kr" tvg-logo="https://pluspng.com/img-png/lotte-logo-vector-png-lotte-homeshopping-logo-pack-vector-640.png" group-title="Korean",LOTTE HOME SHOP
+http://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive.mp4_1.m3u8
 
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Korean",EBS 1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
