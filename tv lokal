@@ -2039,18 +2039,6 @@ https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
 ########################################################################
    ======================= China ====================================>
-#EXTINF:-1 group-title="China" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/dsIecrv.png",TVB Xing He
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
-
-#EXTINF:-1 group-title="China" tvg-name="" tvg-country="ID" tvg-logo="https://w7.pngwing.com/pngs/10/901/png-transparent-zhejiang-icon-zhejiang-tv-column-icon-blue-angle-text-thumbnail.png",Zhejiang TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368
-https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd
-
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="China",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="China",浙江国际
@@ -2067,36 +2055,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="China",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-
-#EXTINF:-1 group-title="China" tvg-name="" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",Anhui TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
-https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
-
-#EXTINF:-1 group-title="China" tvg-name="" tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Dragon_TV_2015_Stacked_logo.png/revision/latest/scale-to-width-down/250?cb=20241209140521",Dragon TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
-https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
-
-#EXTINF:-1 group-title="China" tvg-name="" tvg-country="ID" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",Shenzen TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a51cbbc384a949f491c3e5a0bd8c7103:4db32e0ff4147db3d833fdcc1d3e123f
-https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd
-
-#EXTINF:-1 group-title="China" tvg-name="" tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/TVBSNEWS2008.png/revision/latest/scale-to-width-down/300?cb=20231003151627",TVBS News
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
-
-#EXTINF:-1 group-title="China" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/gF8K1JX.jpeg",TVBS Asia
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 
 #EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="China", CCTV1
 #http://66.90.99.154:8278/cctv1/playlist.m3u8?tid=MCCC3548278835482788&ct=20241&tsum=c388166681c436d57748662302ba92c0
@@ -2264,29 +2222,30 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
  ################################################################          
             ==========KOREAN==========
-#EXTINF:-1 tvg-id="59" tvg-logo="https://i.imgur.com/6SPFgXm.jpeg" group-title="Korean", TvN
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
 
-#EXTINF:-1 tvg-id="tvNMovies.kr" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/89T2hdR.png" group-title="Korean",TvN movies
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
-https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://i.imgur.com/6SPFgXm.jpeg" group-title="Korean",TVN
+https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/89T2hdR.png" group-title="Korean",TVN Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD|user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://i.imgur.com/89T2hdR.png" group-title="Korean",TVN MOVIES
+https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/k%20movies.png" group-title="Korean",k-movies
-https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-#EXTINF:-1 group-title="Korean" tvg-id="ONE.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/KuUUVla.png",ONE
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
-https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://i.imgur.com/KuUUVla.png" group-title="Korean",ONE
+https://fta1-cdn-flr.visionplus.id/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
 #EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.imgur.com/M8OvhGV.jpeg" group-title="Korean",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -2306,6 +2265,18 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/chunklist_b414000.m3u8
 
 #EXTINF:-1 group-title="Korean"  tvg-id="sbs.kr" tvg-logo="https://canlitv.com/kanal/logo/381.jpg",SBS UBC
 https://stream.ubc.co.kr/hls/ubctvstream/1_2/index.m3u8?tkn=2053981286
+
+#EXTINF:-1 group-title="Korean" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNWtsSt3bphx8j6iK4ikDhkiZxGOyzNggFog&s", WBC TV
+#EXTVLCOPT:http-origin=https://tv.garden
+#EXTVLCOPT:http-referrer=https://tv.garden/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/chunklist_w322827923.m3u8
+
+#EXTINF:-1 group-title="Korean" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwV0eFH2ZUjSbf4eGaGY6cdlFEq1pwqa12v3dDSqb_FzRZcqP2uMqUf2x8Rvml4dM6g8&usqp=CAU", CGNTV SOUTH KOREA
+#EXTVLCOPT:http-origin=https://tv.garden
+#EXTVLCOPT:http-referrer=https://tv.garden/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
 
 #EXTINF:-1 group-title="Korean"  tvg-id="cjenm.kr" tvg-logo="https://lh3.googleusercontent.com/ivqFC7w3TsJo9ybevytJN5MhvHOWGLp2CkLKtwsaqoYo0C0X65baMJRPiNpH-Xu0M_kHJaSptEC-irVtopPJGUcS9EHB8pRFfUE=w780-nu-rj-l80-e365",CJ E&M
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
