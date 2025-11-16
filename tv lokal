@@ -1295,12 +1295,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Film",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2d6a86311c21a2c0f6e90d58fd7e590:b5607e3891e8fb4c0cc82d8f82abe569
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://covoslivechannels2dash.clarovideo.com/
-#EXTINF:-1 ch-number="318" tvg-id="Golden.py" tvg-logo="https://mimipipi22.github.io/logo/png/goldenplus.png" group-title="Film",Golden Plus
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(GOLDEN_HD)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F106b9c59d.vws.vegacdn.vn%2FrBN9EfEEFSyoELIQDjEu%2F1200x1200x0%2Fcmc_new%2Fimg.live_channel%2F0%2F0%2F0%2F0%2F179.jpg&f=1&nofb=1&ipt=b29f33cd0b247b0c929d143cd9137463ba3fa3568661eac5647232137779176c" group-title="Film",CINEMAWORLd
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F106b9c59d.vws.vegacdn.vn%2FrBN9EfEEFSyoELIQDjEu%2F1200x1200x0%2Fcmc_new%2Fimg.live_channel%2F0%2F0%2F0%2F0%2F179.jpg&f=1&nofb=1&ipt=b29f33cd0b247b0c929d143cd9137463ba3fa3568661eac5647232137779176c" group-title="Film",CINEMAWORLD
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld_dash/manifest.mpd
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="Film",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
