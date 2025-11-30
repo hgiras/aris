@@ -158,7 +158,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P0WScZl.png" group-title="NASIONAL🔵",MNCTv
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTM3U
 #EXT-X-VERSION:3
@@ -169,7 +169,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/P0WScZl.png", MNCTv
+#EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/P0WScZl.png", RCTI
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/vYwruS2.png" group-title="NASIONAL🔵",RCTi
@@ -182,7 +182,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vYwruS2.png" group-title="NASIONAL🔵",RCTI
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/CGJlJYi.png" group-title="NASIONAL🔵",GTv
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
