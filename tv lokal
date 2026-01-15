@@ -188,7 +188,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-id="AntaraTV.id" tvg-name="RCTI" tvg-logo="https://i.imgur.com/CGJlJYi.png" group-title="NASIONAL🔵",GTV
-https://cdn10jtedge.indihometv.com/atm/DASH/gtv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JTBuYHg.jpeg" group-title="NASIONAL🔵" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="214" tvg-id="SCTV.id" tvg-name="SCTV", SCTV 
@@ -283,11 +283,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SzMmP5q.png" group-title="NASIONAL🔵",MOJi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="AntaraTV.id" tvg-name="RCTI" tvg-logo="https://i.imgur.com/SzMmP5q.png" group-title="NASIONAL🔵",moji
+https://cdn10jtedge.indihometv.com/atm/DASH/moji/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
@@ -295,11 +296,6 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/O2I9nKX.png",iNews
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2I9nKX.png" group-title="NASIONAL🔵", INEWS
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:network-caching=1000
