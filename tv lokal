@@ -2746,15 +2746,16 @@ https://hls.yourtime.live/hls/stream.m3u8
 #########################################################
         ============ Singapore ==================
 
-#EXTINF:-1 group-title="SINGAP0RE" tvg-url="https://bit.ly/SingaporeEpg" tvg-id="Ch 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
-#https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
+#EXTINF:-1 group-title="SINGAP0RE" tvg-id="97098" tvg-logo="https://i.ibb.co.com/pj0SBWf/m5.png",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKd7UPQ.png" group-title="SINGAP0RE" tvg-ID="Ch 8" tvg-name"Channel 8", Channel 8
-https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 group-title="SINGAP0RE" tvg-id="97104" tvg-logo="https://i.ibb.co.com/VQ1vCzC/m8.png",Channel 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 group-title="SINGAP0RE" tvg-url="https://bit.ly/SingaporeEpg" tvg-id="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",Channel U
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2766,9 +2767,9 @@ https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
-#EXTINF:-1  tvg-id="Vasantham" group-title="SINGAP0RE" tvg-url="https://bit.ly/SingaporeEpg" tvg-logo="https://i.imgur.com/niCFn0b.png",Vasantham
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
+#EXTINF:-1 group-title="SINGAP0RE" tvg-id="97096" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Channel Vasantham
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2790,42 +2791,15 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="SINGAP0RE",Mediacorp Entertainment China
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 
-########################### TAIWAN #########################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asianwiki.com/images/c/c3/Television_Broadcasts_Limited.png" group-title="TAIWAN / HK",TVB ENTERTAINMENT
-http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 group-title="SINGAP0RE" tvg-id="98200" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/05/09/5e050934-67e2-4f1b-7abb-051db6b70520/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",M LIVE SPL 01
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/WEWJbRx.png" group-title="TAIWAN / HK", 台视
-rtmp://f13h.mine.nu/sat/tv071
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oQIZpin.jpeg" group-title="TAIWAN / HK", 纬来音乐台
-rtmp://f13h.mine.nu/sat/tv701
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XE2UqDK.jpeg" group-title="TAIWAN / HK", 纬来日本台
-rtmp://f13h.mine.nu/sat/tv771
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HhPjilP.jpeg" group-title="TAIWAN / HK", MoMoTV 综合
-rtmp://f13h.mine.nu/sat/tv761
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="TAIWAN / HK", DAZN体育1
-rtmp://f13h.mine.nu/sat/tv731
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="TAIWAN / HK", DAZN体育2
-rtmp://f13h.mine.nu/sat/tv741
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/eIp1O2e.jpeg" group-title="TAIWAN / HK", 中华小当家
-http://cfss.cc/cdn/hy/11342413.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/z47DCtc.jpeg" group-title="TAIWAN / HK", 非凡新聞台
-rtmp://f13h.mine.nu/sat/tv581
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/3KRRWXc.png" group-title="TAIWAN / HK", EBC 东森超视
-rtmp://f13h.mine.nu/sat/tv331
-
-#EXTINF: -1 tvg-id="6108" tvg-logo="https://i.imgur.com/PGIedb2.png" group-title="TAIWAN / HK", TAIWAN+
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
-#EXTINF: -1 tvg-id="DLD.TW" tvg-logo="https://i.imgur.com/1PWcINe.png" group-title="TAIWAN / HK", DALI 大立电视台
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="SINGAP0RE" tvg-id="98201" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/05/09/5e050934-67e2-4f1b-7abb-051db6b70520/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",M LIVE SPL 02
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
 ####################################################
     ================== Music ===================
@@ -2868,9 +2842,6 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="kronehit1-x" tvg-name="KRONEHIT TV" tvg-logo="https://i.imgur.com/f4KOpQl.png" group-title="Music",KRONEHIT TV
 https://ac-003.live.p7s1video.net/6e5a61c7/t_003/kronehittv-at/cenc-default.mpd
 
-#EXTINF:-176 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",Kpop TV Play
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
-
 #EXTINF:-1 tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://images.pluto.tv/channels/64c37e710e086a0009e824ab/colorLogoPNG.png" group-title="Music",NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -2905,16 +2876,16 @@ https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m
 #############################################
  ===================GABUT===============
 ###################################################
-#EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://i.imgur.com/oZflY4M.jpeg" group-title="ARIS MAWAN", saweria.co/ARMSTORE
+#EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://i.imgur.com/oZflY4M.jpeg" group-title="ARIS MAWAN", 085645895947
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65bce7f1d77d450008b3a430/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://i.imgur.com/oZflY4M.jpeg" group-title="ARIS MAWAN", saweria.co/ARMSTORE
+#EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://i.imgur.com/oZflY4M.jpeg" group-title="ARIS MAWAN", 085645895947
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://i.imgur.com/oZflY4M.jpeg" group-title="ARIS MAWAN", saweria.co/ARMSTORE
+#EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://i.imgur.com/oZflY4M.jpeg" group-title="ARIS MAWAN", 085645895947
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://i.imgur.com/oZflY4M.jpeg" group-title="ARIS MAWAN", saweria.co/ARMSTORE
+#EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://i.imgur.com/oZflY4M.jpeg" group-title="ARIS MAWAN", 085645895947
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-id="https://saweria.co/ARMSTORE" tvg-logo="https://i.imgur.com/oZflY4M.jpeg" group-title="ARIS MAWAN", saweria.co/ARMSTORE
