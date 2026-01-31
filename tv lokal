@@ -342,6 +342,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 
 #EXTINF:-1 tvg-id="SindoNews.id" group-title="NASIONAL🔵" group-logo="https://i.imgur.com/Nzu9dED.png" tvg-logo="https://i.imgur.com/Nzu9dED.png", Sindonews
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL🔵"  tvg-logo="https://i.ytimg.com/vi/acf_J4zZmbo/maxresdefault.jpg", JPM TV
@@ -353,20 +355,18 @@ https://nextgenz.my.id/event/pidio/play.m3u8?id=9714&type=hls
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://cdn10jtedge.indihometv.com/atm/DASH/mentaritv/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-31_20-49-13-432.png",VTV
-https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
+#EXTINF:-1  tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-31_20-49-13-432.png" group-title="NASIONAL🔵", VTv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/u0SmZNk.png" group-title="NASIONAL🔵",RTV 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://i.imgur.com/u0SmZNk.png" group-title="NASIONAL🔵", RTv
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u0SmZNk.png" group-title="NASIONAL🔵", RTv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch116.m3u8|user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SGssEX6.png" group-title="NASIONAL🔵" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="23" tvg-id="BTV.id" tvg-name="BTV.id", BTV
