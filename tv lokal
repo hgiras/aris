@@ -1805,8 +1805,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h232/S4/mnf.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33b71e0fd4e74614b55c5e4399e2eb9c:f5bae0f7ea037e59a8b2a7851954ecbe
 #EXTINF:-1 tvg-id="EWTN.id" tvg-name="EWTN.id" tvg-logo="https://i.imgur.com/UrUb5tW.png" group-title="RELIGI🔵",EWTN
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000049/1024.m3u8
-#https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mediampd/EWTN.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mediampd/EWTN.mpd
 #https://fta3-cdn-flr.visionplus.id/out/v1/96e20532df53449ab254f765073ec866/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1842,12 +1841,6 @@ https://fl31.moveonjoy.com/STARZ/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="US : BBC AMERICA WEST HD" tvg-logo="https://logowik.com/content/uploads/images/bbc-america9038.jpg" group-title="HIBURAN", BBC AMERICA
 http://hardcoremedia.xyz:80/live/fadkjokz/4950078150/129831.ts
-
-#EXTINF:-1 group-title="HIBURAN" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png", TLC 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
-#https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 
 #EXTINF:-1 tvg-id="TLC HD World.id" tvg-name="TLC" tvg-logo="https://www.seekpng.com/png/detail/154-1544245_tlc-logo-colour-tlc-tv-logo-transparent.png" group-title="HIBURAN", TLC
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1961,6 +1954,9 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=ed5aac3691b33a02ac86d84f886a8a06:6b2cf6dd150416b758d228fc38980473
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSCV)/master.mpd
 
+#EXTINF:-1 tvg-id="TV5 Monde Style" tvg-name="TV5 Monde Style" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.XriWk8wWNpRs3_gdcw4BHQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="HIBURAN",TV5 MONDE STYLE
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="HIBURAN",TravelXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -1995,12 +1991,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 #https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Maxstream" tvg-name="Maxstream" tvg-logo="https://lh3.googleusercontent.com/l3ox9vAWx2ogOat1UD4iAmZDfvm-YWBIJSOFjlaL7sW0Okmt6YNoBgaAmy2_ZzfOHsY" group-title="HIBURAN", Maxstream
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="HIBURAN",China Travel
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
@@ -2033,7 +2025,6 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-STAR-VISION-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6248c6d3-6b6c-4b88-ae8f-a7c119ab380a/manifest.m3u8?hdnts=st%3D1758606460~exp%3D1758628060~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-STAR-VISION-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F6248c6d3-6b6c-4b88-ae8f-a7c119ab380a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.208.182_yuppfast_2_channel_74_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.208.182_yuppfast_2_channel_74_-1~hmac%3Dc67efad5e5d630d905ebdf1fa63a1e14fa303bddb63de699ded81c57d3541293
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MF7tSO1.png?v=1.0.0.1" group-title="HIBURAN", MiamiTV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://us-north-3.mojocloud.com/video-thumbs/destinationkat/bc473b63-c43b-4546-91c0-309738afec6a-3.jpg" group-title="HIBURAN",  DestinationKat Yoga
@@ -2044,12 +2035,12 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 #https://dl.dropbox.com/scl/fi/r3x0ie5b1oa9m5l4d1eqw/Amber-Sym-shows-off-her-perfect-physique-and-tight-muff-on-the-bed.mp4?rlkey=ytlofw0617ofbywkmvfjs8ji8&st=1ygtsfkk&dl=1
 ################################################################
   =============== Knowledge & Documentary ==========================>
-#EXTINF: -1 tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="PEGETAHUAN🟢", ANIMAL PLANET
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="PEGETAHUAN🟢",Animal Planet
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+SzQxHk96mVDxhIWV9Wiw","kid":"DgvwlWWPp8zkDExnE2ueIw"}],"type":"temporary"}
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
 
 #EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/z7P6zeg.jpeg" group-title="PEGETAHUAN🟢",BBC Earth
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2087,13 +2078,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd
 
-#EXTINF: -1 tvg-id="discovery asia" tvg-logo="https://i.imgur.com/pg53cPq.png" group-title="PEGETAHUAN🟢", DISCOVERY ASIA
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
-
 #EXTINF:-1 tvg-id="Discovery Asia.id" tvg-logo="https://i.imgur.com/pg53cPq.png" group-title="PEGETAHUAN🟢", DISCOVERY ASIa
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2107,7 +2091,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mp
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" group-title="PEGETAHUAN🟢",Discovey
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" group-title="PEGETAHUAN🟢",Discovery
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://canalultima.com/uploads/tv_image/discovery-turbo.jpg" group-title="PEGETAHUAN🟢", Discovery Turbo 
@@ -2122,6 +2106,20 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.
 
 #EXTINF:-1 tvg-id="discovering-china" tvg-logo="https://a.jsrdn.com/hls/23232/discovering-china/poster_20251105_005014.jpg" group-title="PEGETAHUAN🟢",Discovering China
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+
+#EXTINF:-1  tvg-name="Investigation Discovery USA Eastern HD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" group-title="KNOWLEDGE",DISCOVERY INVESTIGATION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
+#http://funmitra.com:8080/live/pepi290424/wbktXzArzf/137358
+#https://e1.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot
+
+#EXTINF:-1 tvg-name="Discovery Life Channel HD" tvg-id="discovery-life-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="KNOWLEDGE",DISCOVERY LIFE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#http://funmitra.com:8080/live/pepi290424/wbktXzArzf/7416
+#https://e1.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot
+
 
 #EXTINF:-1 group-title="PEGETAHUAN🟢" tvg-id="DMAX"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6MElwqt4Rdl7g9OMZPNEzM6zeXHE6kMqvSg&s", DMAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2179,14 +2177,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://rt-rtd.rttv.com/live/rtdoc/playlist_1600Kb.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-id="Curiosity.id" tvg-name="Curiosity" tvg-logo="https://nvts-gb-ldn-gettotext.gettotext.com/wp-content/uploads/2022/05/Curiosity-Channel-Spiegel-TV-Knowledge-under-a-new-name-from.jpg" group-title="PEGETAHUAN🟢", Curiosity CHANNEL
-https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
-
 #EXTINF:-1 tvg-id="CURIOSITY_NOW" tvg-name="Curiosity Now" tvg-logo="https://cdn.mos.cms.futurecdn.net/b8ChgzXV6ERRndaSMVvcd3.jpg" group-title="PEGETAHUAN🟢",Curiosity Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9a561b6adad89952415120e7061782d:09ac42a44dfc17aa31c160052bb1834c
@@ -2207,10 +2197,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-logo="https://www.earthtouchnews.com/media/1954995/logo-big.png" group-title="PEGETAHUAN🟢",Earth Touch tv
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/og-brand-smithsonian_5.jpg" group-title="PEGETAHUAN🟢" tvg-id="5f21ea08007a49000762d349" tvg-name="Smithsonian Channel Selects", Smithsonian Channel
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.erP0fj4xpjDf45xo-FDkZQHaEO?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="PEGETAHUAN🟢" tvg-id="Wonder.uk", Wonder
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
@@ -2292,6 +2278,20 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugmfjiqwfd/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4398eb0b3eb86786e4ec7127312cd0:3fec84cee711701c7ada5163ba77b98d
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/orgtigwisa/out/v1/de928716d3d845d5aa5635080fbd5098/cenc.mpd
+
+#EXTINF:-1 tvg-id="MILITARY_HEROES" tvg-name="Military Heroes" tvg-logo="https://tse4.mm.bing.net/th/id/OIP._2J8OliYZWSHf4Kh190X7gHaEJ?w=678&h=380&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="PEGETAHUAN🟢",Military Heroes
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d59c706f0beacd15d11b9ca8a55a3b90:b3facec819b89b565ef5635bf8a77cb9
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rgzxepokao/out/v1/2be3181942bd4abdbc244bd614396ddd/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-id="STARTALK" tvg-name="StarTalk" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.5SUdwsdouWgLlaOOcwnY6wHaEs?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="PEGETAHUAN🟢",StarTalk
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53a72a67b3a71fad6f4b7863336184e4:2c41a547022ec33cc99720c2d4c1b7e8
+https://a73aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/20e3xywbum/out/v1/45f29ac5121847959c3a60ae068e729b/cenc.mpd?encoding=segmentBase
 ###########################################################
 ====================== ARAB ===============================
 #EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxCz6XIEDbr3LParJz3Eu62fHNzDn5nxkUh-QIbn9JG-p0IT5MKvcWndcOnPqpSyTGW2i4V4uzj9YGVEuKIn03Lb-yB48Xk83qga5P9cmuSIt6HMILU0CIw6cVdXctasYzyPLVVlIqljzyAA4Ex9m1MEwM0bQfg_9qxUn5F1thtNAhyphenhyphenMkSTh0zTnoZZMA2/s700/RAJEEN%20TV.png" group-title="ARAB" ,RAJEEN TV
