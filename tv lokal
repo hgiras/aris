@@ -245,8 +245,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sle
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/V1bw3o9.png" group-title="NASIONAL🔵",ANTv
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
@@ -331,7 +329,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="NASIONAL🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/b82CgoIwEV8ChnOh_9lvGhnt2iU=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg", Mentari TV 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-http://175.158.57.130:8888/stream/channelid/641828885
+#http://175.158.57.130:8888/stream/channelid/641828885
 
 #EXTINF:-1 tvg-id="viva.id" tvg-name="" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-31_20-49-13-432.png" group-title="NASIONAL🔵",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -369,8 +367,12 @@ https://atemeshield1-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 #EXTINF:-1 tvg-id="JTV.id@Kediri" group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/GSrYXDx.png",JTV Kediri
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MBGTV.id@FHD" tvg-logo="https://i.imgur.com/t7GsFJN.jpeg" group-title="NASIONAL🔵",MBG TV 
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png", group-title="NASIONAL🔵", SINPO TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="NASIONAL🔵",SINPO TV
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 #https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -383,8 +385,13 @@ http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Bb7Ho.jpeg" group-title="NASIONAL🔵" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="ChannelJowo.id" tvg-name="Channel Jowo", Jowo channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Bb7Ho.jpeg" group-title="NASIONAL🔵" group-logo="https://i.imgur.com/r0Bb7Ho.jpeg" tvg-id="ChannelJowo.id" tvg-name="Channel Jowo", Jowo channel
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+
+#EXTINF:-1 tvg-id="ChannelJowo.id@SD" tvg-logo="https://i.imgur.com/r0Bb7Ho.jpeg" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Channel Jowo
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r9Rctdc.png" group-title="NASIONAL🔵",Magna
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -410,9 +417,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 #EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://i.imgur.com/wNNNZ6B.jpeg" group-title="NASIONAL🔵",NUSANTARA TV
 https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 
+#EXTINF:-1 tvg-id="TVRI.id@WestJava" tvg-logo="https://i.imgur.com/PkhKLE2.png" group-title="NASIONAL🔵",TVRI JaBar
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/PkhKLE2.png" group-title="NASIONAL🔵",TVRI JaTeng
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_900000=10007-mp4a_96000=20001.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/PkhKLE2.png" group-title="NASIONAL🔵",TVRI JaTim
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_900000=10005-mp4a_96000=20001.m3u8
 
@@ -463,6 +471,10 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/FQ1lBe4.png",KSTV
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroBlitarTV.id@SD" tvg-logo="https://i.imgur.com/rORKbGw.png" http-referrer="https://abtelevisi.com/" group-title="NASIONAL🔵",Astro Blitar TV
+#EXTVLCOPT:http-referrer=https://abtelevisi.com/
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMTVMalang.id@SD" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.eNdX93NKMMQK-hcXGws7tgAAAA?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="NASIONAL🔵",SALIRA TV
 https://live.salira.tv/p/3870/hybrid/play.m3u8
@@ -559,7 +571,7 @@ https://flv.intechmedia.net/live/ch81.m3u8
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/aQ73kDT.png",TVKU
 https://tvku.tv/hlsstream/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.RKIZarrbPGbWOrIpVn9TggHaEK%3Fpid%3DApi&f=1&ipt=c0123deae9589fbaf36f371a1f0053cf876518b6f3f5f621eeb9798796724145&ipo=images" group-title="NASIONAL🔵" ,DUTATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="NASIONAL🔵" ,DUTATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
@@ -570,7 +582,7 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://rinjanitv.cloud/hls/tvkabel.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aWgYJoO.png" group-title="NASIONAL🔵" group-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.antaranews.com%2Fcache%2F800x533%2F2019%2F07%2F29%2FIMG-20190729-WA0120.jpg&f=1&nofb=1&ipt=1fff6b292178106410149557e672d713e2e22f672a991eb0cfb4eee626f50ede" tvg-id="selaparangtv.id, Selaparangtv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png" group-title="NASIONAL🔵" group-logo="" tvg-id="selaparangtv.id, Selaparangtv
 https://selaparangtv.siar.us/live/selaparangtv.m3u8
 
 #EXTINF:-1   group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/NHyRbz5.png", BUNGO TV
@@ -609,8 +621,19 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w1262165735.m3u8
 #EXTINF:0 tvg-id="UGTV.id" tvg-logo="https://i.imgur.com/qSKrY2P.png" group-title="NASIONAL🔵",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_mid.m3u8
 
-#EXTINF:0 tvg-id="UBTV.id" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.GXfmKfXLIexwU4U-LepW9gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="NASIONAL🔵",UBTV Brawijaya
+#EXTINF:0 tvg-id="UBTV.id" tvg-logo="https://i.imgur.com/BQIi7ko.png" http-referrer="https://tv.ub.ac.id" group-title="NASIONAL🔵",UBTV Brawijaya
 https://ubmedcom.siar.us/live/ubmedcom.m3u8
+
+#EXTINF:-1 tvg-id="RiauTV.id@SD" tvg-logo="https://i.imgur.com/1g8FtJi.png" group-title="NASIONAL🔵",Riau TV
+http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SultraTV.id@SD" tvg-logo="https://i.imgur.com/cmpbNJz.png" group-title="NASIONAL🔵",Sultra TV 
+http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="NASIONAL🔵",STV 
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HumaBetangTV.id@SD" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="NASIONAL🔵",Huma Betang TV 
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
 
 #####################################################        
           ========SPORT========
