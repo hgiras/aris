@@ -421,6 +421,7 @@
 ###################################################
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/P0WScZl.png" group-title="NASIONAL🔵",MNCTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -527,9 +528,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/PBv1nRV.png", tvOne
 http://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
-#EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/iqZlkD4.png", MDTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mdtv.jpg" group-title="NASIONAL🔵",MDTV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -754,7 +758,7 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/FQ1lBe4.png",KSTV
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroBlitarTV.id@SD" tvg-logo="https://i.imgur.com/rORKbGw.png" http-referrer="https://abtelevisi.com/" group-title="NASIONAL🔵",Astro Blitar TV
+#EXTINF:-1 tvg-id="AstroBlitarTV.id@SD" tvg-logo="https://i.imgur.com/rORKbGw.png" http-referrer="https://abtelevisi.com/" group-title="NASIONAL🔵",AstroBlitar TV
 #EXTVLCOPT:http-referrer=https://abtelevisi.com/
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 
@@ -873,6 +877,59 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.MLocAJZZjUAqJpdKNgWgaQAAAA?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="NASIONAL🔵" ,RINJANI TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://rinjanitv.cloud/hls/tvkabel.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png" group-title="NASIONAL🔵" group-logo="" tvg-id="selaparangtv.id, Selaparang
+#https://selaparangtv.siar.us/live/selaparangtv.m3u8
+
+#EXTINF:-1   group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/NHyRbz5.png", BUNGO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://sampittv.com/wp-content/uploads/2024/05/IMG_20240412_132033.jpg" group-title="NASIONAL🔵", SAMPIT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+https://e.siar.us/live/sampit-tv.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NASIONAL🔵" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.2L2p16BZ7YxWCYIKZgunwAHaEE?rs=1&pid=ImgDetMain&o=7&rm=3",Ficom TV
+https://v3.siar.us/ficomchannel/live/playlist.m3u8 
+
+#EXTVLCOPT:http-referrer=https://wms.klikhost.com:2000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/BrcjDRm.png" group-title="NASIONAL🔵",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1267801285.m3u8
+
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://i.imgur.com/806goUr.png" group-title="NASIONAL🔵", BRTV
+https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w1262165735.m3u8
+
+#EXTINF:-1 tvg-id="SemarangTV.id@SD" tvg-logo="https://i.imgur.com/uWR3qv4.png" group-title="NASIONAL🔵",Semarang TV
+http://116.254.112.74/hls/cakralive.m3u8
+
+#EXTINF:-1 tvg-id="PadangTV.id@SD" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="NASIONAL🔵",Padang TV
+http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SultraTV.id@SD" tvg-logo="https://i.imgur.com/cmpbNJz.png" group-title="NASIONAL🔵",Sultra TV 
+http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="NASIONAL🔵",STV 
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HumaBetangTV.id@SD" tvg-logo="https://i.imgur.com/CftewQc.png" group-title="NASIONAL🔵",Huma Betang TV 
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SriwijayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" group-title="NASIONAL🔵",Sriwijaya TV
+https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2403UeJ10gquJWdTP361RZdej2P0DW9NroMYfw2uoQxFudZXNNVxKEs14W2RLdtzWdTGCPwCu-AYHUhNUZmgjTAUl4mqI0iHytsS4xzG5DS5tdPcNtHfBczSI8NIpaVzcG2YCZ5UQ-dR657pDeR1sIYzMfCvyWf2mOwZcEoedissuV4Q9yh2QqZYWJ-ob/s700/TV%20PARLEMEN.png" group-title="NASIONAL🔵",TV PARLEMEN
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBGTV.id@FHD" tvg-logo="https://i.imgur.com/t7GsFJN.jpeg" group-title="NASIONAL🔵",MBG TV 
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP._vf084pPMAqSLmw1n_f_OQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="NASIONAL🔵", Jagantara
+https://flv.intechmedia.net/live/ch119.m3u8|user-agent=Mozilla/5.0
+#https://flv.intechmedia.net/live/ch119.m3u8
 
 #EXTINF:-1 tvg-logo="https://graphicsprings.com/wp-content/uploads/2023/09/image-148-1536x864.jpg" group-title="NASIONAL🔵",085645895947
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8?
@@ -1220,7 +1277,43 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/06/19192821/WEDO_SPORTS_ROUND_RED.png" group-title="Sports",WE DO SPORT
 https://op-group1-swiftservehd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
 
+#############################################
+ ===================GABUT===============
+###################################################
 
+#EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.gVXIPZDNyJ_2rQ1ZAQ_mLAHaEK?w=761&h=428&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="ARIS MAWAN", ARIS MAWAN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://i.imgur.com/hnyAQ65.jpeg" group-title="ARIS MAWAN", 085645895947
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-id="https://saweria.co/ARMSTORE" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.oByKj0ER_JY-u_dTtHsS_QHaEk?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="ARIS MAWAN", saweria.co/ARMSTORE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",SIMPANG NOL JOGJA
+https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",NOL KM - TIMUR
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_Timur.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",NOL KM - UTARA
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_Utara.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",NOL KM - GD.AGUNG
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_GdAgung.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",MALIOBORO_SIMPANG REKSOBAYAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",MALIOBORO_PASAR BERINGHARJO
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",MALIOBORO_GUNUNGMAS
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_13_Gunungmas.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",MALIOBORO_MALL SELATAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_7_Mall_Selatan.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",MALIOBORO_MALL UTARA
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_6_Mall_Utara.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",MALIOBORO_PERWAKILAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_5_Perwakilan.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",MALIOBORO_UTARA_INNA
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_21_Utara_Inna_Malioboro.stream/playlist.m3u8
+
+##########################
 ############################################
            ========== HBO ==========
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1957,27 +2050,6 @@ https://gooo.blog/opix/genx.m3u8?id=kartoon&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3b2f20862fa7f361fc703d8b9bcd340:f849ca1496a4c3eca2394628c08493d1
 https://tvcdn.tv.telia.lt/live/eds/JimJam/DASH_5_CPIX_NPVR/JimJam.mpd
-
-
-#############################################
- ===================GABUT===============
-###################################################
-
-#EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.gVXIPZDNyJ_2rQ1ZAQ_mLAHaEK?w=761&h=428&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="BANTU SUPORT", ARIS MAWAN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.gVXIPZDNyJ_2rQ1ZAQ_mLAHaEK?w=761&h=428&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="BANTU SUPORT", ARIS MAWAN
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://graphicsprings.com/wp-content/uploads/2023/09/image-148-1536x864.jpg" group-title="BANTU SUPORT", 085645895947
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-id="https://saweria.co/ARMSTORE" tvg-logo="https://graphicsprings.com/wp-content/uploads/2023/09/image-148-1536x864.jpg" group-title="BANTU SUPORT", 085645895947
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=90&deviceId=5f4d863b98b41000076cd061&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-id="https://saweria.co/ARMSTORE" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.oByKj0ER_JY-u_dTtHsS_QHaEk?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="BANTU SUPORT", saweria.co/ARMSTORE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=fals
-##########################
 
 #################################################################
     ====================== News ========================>
