@@ -1080,15 +1080,17 @@ https://cctv.jogjaprov.go.id/cctv-proxy/cctv-kominfogk/PantaiDrini.stream/chunkl
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",TUGU JOGJA
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewTugu.stream/chunklist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",JOJGA ALUN2 KIDUL
+https://cctv.jogjaprov.go.id/cctv-proxy/cctv-public/ViewAlunAlunKidul.stream/chunklist_w1381776852.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",BUKIT KLAGON
+https://cctv.jogjaprov.go.id/cctv-proxy/cctv-public/ViewBukitKlangon.stream/chunklist_w1629273520.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",JL.PANTAI KUTA HARDROCK
-https://transcode.baliprov.go.id/cctv/jl-pantai-kuta-depan-hardrock/video1_stream.m3u8
+#https://transcode.baliprov.go.id/cctv/jl-pantai-kuta-depan-hardrock/video1_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",JL.LEGIAN SKYGARDEN
-https://transcode.baliprov.go.id/cctv/depan-popies-2--sky-garden/video1_stream.m3u8
+#https://transcode.baliprov.go.id/cctv/depan-popies-2--sky-garden/video1_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAeOWw3.png" group-title="ARIS MAWAN",PANTAI JERMAN KUTA
-https://transcode.baliprov.go.id/cctv/pantai-jerman-co3-cctv1/video1_stream.m3u8
+#https://transcode.baliprov.go.id/cctv/pantai-jerman-co3-cctv1/video1_stream.m3u8
 ############################################
            ========== HBO ==========
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
