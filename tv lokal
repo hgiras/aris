@@ -345,9 +345,13 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cd06
 #EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara TV" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.7skpCmfwdlgrBEUowmLrdwHaE8%3Fpid%3DApi&f=1&ipt=86efbf0b4309b337883d6c55c1eeb2be23ba5de55c4fa90ce36431ee6cd1879b&ipo=images" group-title="NASIONAL🔵",ANTARA TV
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NASIONAL🔵" tvg-logo="https://thumbor.prod.vidiocdn.com/b82CgoIwEV8ChnOh_9lvGhnt2iU=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg", Mentari TV 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#http://175.158.57.130:8888/stream/channelid/641828885
+
+#EXTINF:-1 type="iptv" tvg-id="Mentari TV" tvg-logo="https://thumbor.prod.vidiocdn.com/b82CgoIwEV8ChnOh_9lvGhnt2iU=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="NASIONAL🔵",MENTARI
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d96a81a887fd46f1b18e1fd48c2eeb81:fb8947a8804c874cc0f0b71bdb609ca0
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-id="viva.id" tvg-name="" tvg-logo="https://i.imgur.com/McvZtdA.jpeg" group-title="NASIONAL🔵",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
