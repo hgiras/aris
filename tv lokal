@@ -855,7 +855,6 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1tQ0KWR/images.png" group-title="Sports",ESPN 6
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 
-
 #EXTINF:-1  tvg-logo="http://51.255.35.36/icons1/de/dazn-de.png" group-title="Sports",DAZn 1
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1  tvg-logo="http://51.255.35.36/icons1/de/dazn-de.png" group-title="Sports",DAZn 2
@@ -1353,6 +1352,14 @@ https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mnbctv.mn/upload/images/tv/Cinema_Hd1.jpg" tvg-id="Cinema.mn@SD" group-title="Film",CinEma
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Film",Movies Action
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Film",Movies Thriller
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
