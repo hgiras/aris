@@ -2098,14 +2098,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-id="CGTN.id" tvg-name="CGTN" tvg-logo="https://i.imgur.com/aWF7e5r.png" group-title="News",CGTN
 https://atemecdnbalancer-voe.sysln.id/live/eds/CGTN/mediampd/CGTN.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVoB2L1.png" group-title="New", AL JAZEERA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVoB2L1.png" group-title="News", AL JAZEERA
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26
-#EXTINF:-1 tvg-id="Al.Jazeera.English.id" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/NVoB2L1.png" group-title="News",ALJAZEERA
-https://atemecdnbalancer-voe.sysln.id/live/eds/AlJazeeraIntHD/mediampd/AlJazeeraIntHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2255,6 +2249,7 @@ https://live.presstv.ir/hls/presstv.m3u8
 
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al-Manar TV" tvg-logo="https://th.bing.com/th/id/R.754cef0289a9b441fde24bcaa05b22bc?rik=jCjygWGirRkUXg&riu=http%3a%2f%2fwww.livenewsmag.com%2fwp-content%2fuploads%2f2017%2f01%2fAl-Manar-TV.jpg&ehk=YuUYwg0IsyxSIKRRiJHMZl01pBmXi6GkQwgeTvb4%2b04%3d&risl=&pid=ImgRaw&r=0" group-title="News", Al-Manar
 https://edge.fastpublish.me/live/index.m3u8
+
 
 #########################################################
                  ===========RELIGI=========
@@ -2418,11 +2413,21 @@ https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Crime Investigation.id" tvg-logo="https://i.imgur.com/8DllrFt.png" group-title="PEGETAHUAN🟢", CRIME INVESTIGATION
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
-#EXTINF:-1 tvg-id="Crime.Investigation.id" tvg-name="Crime Investigation" tvg-logo="https://i.imgur.com/8DllrFt.png" group-title="PEGETAHUAN🟢",CRIME INVESTIGATION
-https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mediampd/CrimeInvestigationHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+
+#EXTINF:-1 tvg-id="Crime and Inv..sk" tvg-logo="https://i.imgur.com/8DllrFt.png" group-title="PEGETAHUAN🟢", CRIME INVESTIGATIOn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="Discovery Asia.id" tvg-logo="https://i.imgur.com/pg53cPq.png" group-title="PEGETAHUAN🟢", DISCOVERY ASIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2471,13 +2476,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mediampd/GlobalTr
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mediampd/DMAXHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mediampd/DMAXHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U139AVK.png" group-title="PEGETAHUAN🟢",HGTV 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
-https://i.mjh.nz/.r/discovery-hgtv.m3u8
+#EXTINF:-1 tvg-id="HGTV.id"  tvg-logo="https://i.imgur.com/U139AVK.png" group-title="PEGETAHUAN🟢", HGTV
+https://jmp2.uk/stvp-IT900003FU
 
 #EXTINF:-1 tvg-id="History.id tvg-logo="https://i.imgur.com/zM3vIYj.png" group-title="PEGETAHUAN🟢",HISTORY
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2525,12 +2527,6 @@ https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/10/1200/675/Fox-Weather.jpg?ve=1&tl=1" group-title="PEGETAHUAN🟢",FOX WEATHER
 https://247wlive.foxweather.com/stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/AWE_Logo_%28platinum%29.jpg" group-title="PEGETAHUAN🟢",AWE Encore
-#EXTVLCOPT:http-origin=https://www.distro.tv
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/f9df390f-1207-4bc5-b2cf-0e97ccac135d/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.earthtouchnews.com/media/1954995/logo-big.png" group-title="PEGETAHUAN🟢",Earth Touch tv
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
@@ -2736,6 +2732,9 @@ https://arvhls.wns.live/hls/stream.m3u8
 https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6SPFgXm.jpeg" group-title="Korean",tvN2
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -2744,15 +2743,8 @@ https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index
 https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
-#EXTINF:-1 tvg-id="tvN Drama" tvg-logo="https://cf.creatrip.com/original/blog/10764/bp6xl322k1n9fs21dha6kwqacg3kcdr6.jpg" group-title="Korean",tvN Drama
-https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=tving&i=C01143&q=FHD&apikey=TQDUYRMX4P&u=Y
-#http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01143&q=SD&apikey=5MY50EII66
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TvN_STORY_logo.png" group-title="Korean", tvN Story
-https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=tving&i=C51258&q=SD&apikey=TQDUYRMX4P&u=Y
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmaa2lJ3TWikC27D6n4TX8SNSmUzpYKDQxg&s" group-title="Korean", tvN Show
-https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=TQDUYRMX4P&u=Y
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TvN_STORY_logo.png" group-title="Korean",tvN story
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKj_mv63oHLLaNAEG5GF8lVERge0ZAaUHew&s" group-title="Korean", tvN International
 https://d50a1g0nh14ou.cloudfront.net/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/master.m3u8
@@ -2889,6 +2881,179 @@ https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Iotkspd.png" group-title="Korean",BBS TV 불교
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Korean",JTV
+http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Korean",C
+http://112.175.51.214:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Korean",14
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
+
+###############################################################
+        ===============THAILAND===========
+#EXTINF:-1 group-title="THAILAND" tvg-logo="https://i.imgur.com/q8GoDZ5.png",THAI PBS 3 HD
+https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1 group-title="THAILAND" tvg-logo="https://i.imgur.com/XaMt4p5.png",SIAM THAI
+https://live.x2.co.th/live/13livetv-th_240p/index.m3u8
+
+#EXTINF:-1 group-title="THAILAND" tvg-logo="https://www.boonniyom.tv/_next/image?url=%2Flogo.png&w=128&q=75",BOONNIYOM
+https://live.x2.co.th/live/bntv_240p/index.m3u8
+
+#EXTINF:-1 group-title="THAILAND" tvg-logo="https://tse4.mm.bing.net/th/id/OIP._eEvj_PFPsCRikVsDXxpygHaEt?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",THAI CHAIYO
+https://live-iptv.thaichaiyo.tv/tcy/live-480P.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/10.png" group-title="THAILAND",TPTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
+
+#EXTINF:-1 group-title="THAILAND" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.A90JvP2TgqOmvm_SJ2fxwwHaCE?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",THAI parliament
+https://tv-live.tpchannel.org/live/tv_240p.m3u8?vhost=tv-live.tpchannel.org
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wgd3zgpi68gasbr/coolchannel.png?dl=0" group-title="THAILAND", COOL CHANNEL
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="THAILAND", CABLE CHANNEL 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.Qp80Hih1g-JmUW0uUwsCGQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="THAILAND", TOP NEWS
+http://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+#EXTINF:-1  group-title="THAILAND" tvg-logo="https://th.bing.com/th/id/R.7b50cc72eb3e9a6c724443299f22d923?rik=Z1Rka6IwxeXsUA&riu=http%3a%2f%2fimg4.wikia.nocookie.net%2f__cb20150716011927%2flogopedia%2fimages%2f9%2f97%2fTV5logo.png&ehk=2sRe0mKRkg%2be4MfkcdgWfgwmtl3NpX4mpYjsHf8sXQY%3d&risl=&pid=ImgRaw&r=0", TV5
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://th.bing.com/th/id/R.7b50cc72eb3e9a6c724443299f22d923?rik=Z1Rka6IwxeXsUA&riu=http%3a%2f%2fimg4.wikia.nocookie.net%2f__cb20150716011927%2flogopedia%2fimages%2f9%2f97%2fTV5logo.png&ehk=2sRe0mKRkg%2be4MfkcdgWfgwmtl3NpX4mpYjsHf8sXQY%3d&risl=&pid=ImgRaw&r=0" group-title="THAILAND",CH5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="THAILAND",T Sports 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+
+#EXTINF:-1 group-title="THAILAND" tvg-logo="https://i.imgur.com/kxSbGXx.jpeg",ASTV NEWS
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 group-title="THAILAND" tvg-logo="https://i.imgur.com/JM9Uxvw.jpeg", POLICE TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnnasTV.th" tvg-logo="https://raw.githubusercontent.com/natsuki26/iptv/main/logos/annas_tv.png" group-title="THAILAND",Annas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://vdo.plathong.net/Annastv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E7aA7d8.jpeg" group-title="THAILAND", WHITE CHANNEL
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RwsnP62.png" group-title="THAILAND",YATEEM TV
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/16.png" group-title="THAILAND",TNN16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/22.png" group-title="THAILAND",NationTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/23.png" group-title="THAILAND",WorkpointTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/24.png" group-title="THAILAND",True4U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png" group-title="THAILAND",GMM25
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png" group-title="THAILAND",CH8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
+
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.BYn57P_AJvt__vsZitpI6QHaFj?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="THAILAND",MONO 29
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://tse3.mm.bing.net/th/id/OIP.BYn57P_AJvt__vsZitpI6QHaFj?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="THAILAND",MONO29 PLUS+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+
+#EXTINF:-1 group-title="THAILAND"  tvg-id="Thairath TV HD.th" tvg-logo="https://static.thairath.co.th/media/dFQROr7oWzulq5FZYjjA515688fYpq5TMLJD17vUyLlN8HXXTvARWsmL1j8q7THf3rE.jpg", THAIRATH 32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-origin=https://www.thairath.co.th
+#EXTVLCOPT:http-referrer=https://www.thairath.co.th/
+https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/30.png" group-title="THAILAND",9MCOT HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/31.png" group-title="THAILAND",ONE31 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/32.png" group-title="THAILAND",ThairathTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png" group-title="THAILAND",CH3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/34.png" group-title="THAILAND",AmarinTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png" group-title="THAILAND",CH7 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/101.png" group-title="THAILAND",Asian-Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
+
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="THAILAND",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="THAILAND",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="THAILAND",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="THAILAND",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="THAILAND",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="THAILAND",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="THAILAND",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="THAILAND",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="THAILAND",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="THAILAND",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="THAILAND",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="THAILAND",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="THAILAND",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="THAILAND",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="THAILAND",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
 #######################################################
      ====================== MALAYSIA ==========================>
 
