@@ -367,11 +367,15 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Jawa.Pos.TV.id" tvg-name="" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.dyx_opwgb2Y4rwtqG1Q4hQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="NASIONAL🔵",JAWAPOs
 http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
-#http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 #http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8
-#http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
 #http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8
 #https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
+#EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.dyx_opwgb2Y4rwtqG1Q4hQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="NASIONAL🔵",Jawa Jakarta
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JawaPosTV.id@Madiun" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.dyx_opwgb2Y4rwtqG1Q4hQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="NASIONAL🔵",Jawa Madiun
+http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JawaPosTV.id@Semarang" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.dyx_opwgb2Y4rwtqG1Q4hQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="NASIONAL🔵",Jawa Semarang
+http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="B.id" group-title="NASIONAL🔵" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/SGssEX6.png", BTV
 http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8|user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0&referrer=https://dens.tv/
@@ -405,8 +409,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #KODIPROP:inputstream.adaptive.license_key=d96a81a887fd46f1b18e1fd48c2eeb81:fb8947a8804c874cc0f0b71bdb609ca0
 #https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/McvZtdA.jpeg" group-title="NASIONAL🔵", VTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#EXTINF:-1 tvg-id="viva.id" tvg-name="" tvg-logo="https://i.imgur.com/McvZtdA.jpeg" group-title="NASIONAL🔵",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u0SmZNk.png" group-title="NASIONAL🔵", RTv
@@ -432,6 +436,10 @@ https://atemeshield1-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
 
 #EXTINF:-1 tvg-id="JTV.id@Kediri" group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/GSrYXDx.png",JTV Kediri
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id@Madiun" tvg-logo="https://i.imgur.com/GSrYXDx.png" group-title="NASIONAL🔵",JTV Madiun
+http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id@Malang" tvg-logo="https://i.imgur.com/GSrYXDx.png" group-title="NASIONAL🔵,JTV Malang
+http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -483,11 +491,11 @@ https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 
 #EXTINF:-1 tvg-id="TVRI.id@WestJava" tvg-logo="https://i.imgur.com/PkhKLE2.png" group-title="NASIONAL🔵",TVRI JaBar
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/PkhKLE2.png" group-title="NASIONAL🔵",TVRI JaTeng
+#EXTINF:-1 tvg-id="" tvg-url="TVRI.id" tvg-logo="https://i.imgur.com/PkhKLE2.png" group-title="NASIONAL🔵",TVRI JaTeng
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_900000=10007-mp4a_96000=20001.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/PkhKLE2.png" group-title="NASIONAL🔵",TVRI JaTim
+#EXTINF:-1 tvg-id="" tvg-url="TVRI.id" tvg-logo="https://i.imgur.com/PkhKLE2.png" group-title="NASIONAL🔵",TVRI JaTim
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_900000=10005-mp4a_96000=20001.m3u8
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/PkhKLE2.png" group-title="NASIONAL🔵",TVRI Bali
+#EXTINF:-1 tvg-id="" tvg-url="TVRI.id" tvg-logo="https://i.imgur.com/PkhKLE2.png" group-title="NASIONAL🔵",TVRI Bali
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_250000=10000-mp4a_64000=20002.m3u8
 
 #EXTINF:-1 group-title="NASIONAL🔵"  tvg-logo="https://i.imgur.com/PkhKLE2.png", TVRI
@@ -509,9 +517,10 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8|referer=https://
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
-#EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/IkxEkGv.jpeg", BN Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IkxEkGv.jpeg" group-title="NASIONAL🔵",BN TV
+#EXTVLCOPT:http-referrer=https://youtv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/Oa54juO.png" group-title="NASIONAL🔵",Indonesiana TV 
 https://tvstreamcast.com/indonesiana.m3u8
@@ -2025,9 +2034,16 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ck8h9qqlfr/
 #KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/McvZtdA.jpeg" group-title="Kids🟠", VTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#EXTINF:-1 tvg-id="viva.id" tvg-name="" tvg-logo="https://i.imgur.com/McvZtdA.jpeg" group-title="Kids🟠",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-id="viva.id" tvg-name="" tvg-logo="https://i.imgur.com/McvZtdA.jpeg" group-title="Kids🟠",VtV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
+http://wakhaji.biz.id/hls/hls-oxygen.php?id=vtv
+#https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#http://202.169.224.202:8800/udp/239.9.1.39:1234
 
 #EXTINF:-1 group-title="Kids🟠" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.3RC4gvj2mcKA0rxbcKeJLwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",MAX Kids
 https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
