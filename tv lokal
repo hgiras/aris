@@ -409,9 +409,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #KODIPROP:inputstream.adaptive.license_key=d96a81a887fd46f1b18e1fd48c2eeb81:fb8947a8804c874cc0f0b71bdb609ca0
 #https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-id="viva.id" tvg-name="" tvg-logo="https://i.imgur.com/McvZtdA.jpeg" group-title="NASIONAL🔵",VTV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/McvZtdA.jpeg" group-title="NASIONAL🔵",VTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
+https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u0SmZNk.png" group-title="NASIONAL🔵", RTv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -479,10 +480,10 @@ https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindones
 https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://i.imgur.com/wNNNZ6B.jpeg" group-title="NASIONAL🔵",NUSANTARA TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -631,7 +632,7 @@ https://flv.intechmedia.net/live/ch119.m3u8|user-agent=Mozilla/5.0
 #https://flv.intechmedia.net/live/ch119.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sf9MhbJ.png" group-title="NASIONAL🔵",RADAR TV TASIKMALAYA
-https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+#https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ig63iRX.png" group-title="NASIONAL🔵",RADAR LAMPUNG TV
 https://www.streaming.radartv.co.id/hls/test.m3u8
@@ -677,9 +678,6 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/chunklist_w236345802.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 https://e.siar.us/live/sampit-tv.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="NASIONAL🔵" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.2L2p16BZ7YxWCYIKZgunwAHaEE?rs=1&pid=ImgDetMain&o=7&rm=3",Ficom TV
-https://v3.siar.us/ficomchannel/live/playlist.m3u8 
-
 #EXTVLCOPT:http-referrer=https://wms.klikhost.com:2000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -688,7 +686,7 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/BrcjDRm.png" group-title="NASIONAL🔵",TV Tabalong
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1267801285.m3u8
+#https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1267801285.m3u8
 
 #EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://i.imgur.com/806goUr.png" group-title="NASIONAL🔵", BRTV
 #https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w1262165735.m3u8
@@ -701,7 +699,7 @@ http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="NASIONAL🔵",STV 
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="HumaBetangTV.id@SD" tvg-logo="https://i.imgur.com/CftewQc.png" group-title="NASIONAL🔵",Huma Betang TV 
-https://v3.siar.us/humabetangtv/live/playlist.m3u8
+#https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SriwijayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" group-title="NASIONAL🔵",Sriwijaya TV
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
@@ -774,7 +772,6 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/featuredImage.jpg" group-title="Sports",BEIN SPORTS EXTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
@@ -907,7 +904,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21178&type=drm
 #https://ratuvidio.adptv.workers.dev/index.mpd?id=21178&type=dash
-https://pidio.becek.workers.dev/21178.mpd
+#https://pidio.becek.workers.dev/21178.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1036,12 +1033,11 @@ https://love.verowo7190.workers.dev/lx-origin/th-monomax02_480/chunks.m3u8
 #EXTINF:-1 tvg-id="FightSports" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/6HCgQjN.png" group-title="Sports",Fight Sports
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6HCgQjN.png" group-title="Sports",FIGHT TV PREMIUM
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/fightbox.jpg" group-title="Sports",FIGHT BOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.6fFqeUz1Q4FQ_CN_6M2LWAHaCg?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Sports",Fighting TV
 #https://nl.utako.moe/fighting_tv/index.m3u8
@@ -1057,16 +1053,9 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 
 #EXTINF:-1 xui-id="14881" tvg-id="FightNetwork.us" tvg-name="FIGHT NETWORK" tvg-logo="http://46.151.196.243:80/images/75Dasug4Cl3n03mPqiyvKS4RHPoXgirOhR8AcCJt5BM.png" group-title="Sports",FIGHT NETWORK
-http://46.151.196.243:80/play/LMrv_fYorITF9qmDeTZKot68p5w9IB2LSSqDnR1qSHo
+#http://46.151.196.243:80/play/LMrv_fYorITF9qmDeTZKot68p5w9IB2LSSqDnR1qSHo
 #EXTINF:-1 xui-id="38399" tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="http://46.151.196.243:80/images/75Dasug4Cl3n03mPqiyvKUelS-cCDvj2YYzBEYmIVAE.png" group-title="Sports",UFC FIGHT PASS
-http://46.151.196.243:80/play/LMrv_fYorITF9qmDeTZKohNURJWaxBoI9fBwTIn42rs
-#EXTINF:-1 xui-id="15097" tvg-id="SportsmanChannel.us" tvg-name="Sportsman" tvg-logo="http://46.151.196.243:80/images/DxmpwZXv7v7_FHtXZxPiHOWK76m5CFUSGL5DVBWsInsJ_n7StFi2HIyaNoU-fHF7.png" group-title="Sports",Sportsman
-http://46.151.196.243:80/play/LMrv_fYorITF9qmDeTZKoqNtces3j6N7q1hcX3ME6mI
-
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmmachannel.com%2Fwp-content%2Fuploads%2F2022%2F10%2FMMA_Home_Logo_480x.png&f=1&nofb=1&ipt=0e0bcf88527d5d98934830b5c551e30441d227f10fe3b0388c24b0e24a6baca2" group-title="Sports", MMA-TV
-https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fdb%2Fed%2Ff4%2Fdbedf42b4d53c2c804f8ed2717fdf311.jpg&f=1&nofb=1&ipt=9e6c760dbb2907ad310e19b106f76b9a2262f509b21296c367429b3e7cbf85b0" group-title="Sports", Boxing TV
-https://a3569457567-s70378.cdn.ngenix.net/boks_tv/1/index.m3u8
+#http://46.151.196.243:80/play/LMrv_fYorITF9qmDeTZKohNURJWaxBoI9fBwTIn42rs
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1jkx9ln0og6n61e3n1oqbunc9g_image-header_pIt_1661948765000&quality=70",EuroSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1095,17 +1084,11 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.tvchinese.net/uploads/tv/fyzq.jpg",CCTV FOOTBALL
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
-#EXTINF:-1 tvg-id="a3cine.us" tvg-name="USA: NBA TV" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2024/06/nr-article-NBA-TV-To-Tvision-1-15-21.png.webp" group-title="Sports",NBA TV
-http://nor1live.win/livehttpplay?channel_id=23128 
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Sports", MLB
-http://nor1live.win:80/livehttpplay?channel_id=23125
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58570_h15_ab.png" group-title="Sports", NHL Network
-http://nor1live.win:80/livehttpplay?channel_id=23127
-
-#EXTINF:-1 tvg-logo="https://www.americanfootballinternational.com/wp-content/uploads/NFL-2020-NFL-Network-logo.png" group-title="Sports", NFL Network
-http://nor1live.win:80/livehttpplay?channel_id=23124
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2024/06/nr-article-NBA-TV-To-Tvision-1-15-21.png.webp",NBA TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Gpg0RK6F/tenis.png",Tennis Channel  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1138,6 +1121,12 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/fastandfunbox.jpg" group-title="Sports",FAST AND FUNBOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://github.com/justemonn1/tv/blob/main/master/poster/motorvisiontv-696x400.jpg?raw=true" group-title="Sports",MOTORVISION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
@@ -1201,62 +1190,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 #https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
-################# TNT
-#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/2tBx8pR/TNT1.png" group-title="Sports", TNT Sport 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-#https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fpHYC7N/TNT2.png" group-title="Sports", TNT Sport 2 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/5r1gJwz/TNT3.png" group-title="Sports", TNT Sport 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-#https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ZgQ5jVD/TNT4.png" group-title="Sports", TNT Sport 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-############# ESPN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",ESPN 1 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_hd/default/index.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",ESPN 2 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_2_hd/default/index.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",ESPN 3 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_3_hd/default/index.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",ESPN 4 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_plus_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://i.imgur.com/hnyAQ65.jpeg" group-title="Sports", 085645895947
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -1377,8 +1310,8 @@ https://transcode.baliprov.go.id/cctv/pantai-jerman-co3-cctv1/video1_stream.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO.HD.id" group-title="HBO🟢" group-logo="" tvg-logo="https://i.imgur.com/bmu95rl.png",HBo
-#https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://i.imgur.com/bmu95rl.png" group-title="HBO🟢",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2035,16 +1968,12 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ck8h9qqlfr/
 #KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
+#EXTINF:-1 tvg-id="MentariTV.id" group-title="Kids🟠" tvg-name="Mentari TV" tvg-logo="https://thumbor.prod.vidiocdn.com/b82CgoIwEV8ChnOh_9lvGhnt2iU=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg", MENTAri
+https://spmid.net:443/play/MyEoo-x6p53nRakGbj5NBh5dWTd_lq48vH8_gJXkwQ4
+
 #EXTINF:-1 tvg-id="viva.id" tvg-name="" tvg-logo="https://i.imgur.com/McvZtdA.jpeg" group-title="Kids🟠",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
-
-#EXTINF:-1 tvg-id="viva.id" tvg-name="" tvg-logo="https://i.imgur.com/McvZtdA.jpeg" group-title="Kids🟠",VtV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
-http://wakhaji.biz.id/hls/hls-oxygen.php?id=vtv
-#https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
-#http://202.169.224.202:8800/udp/239.9.1.39:1234
 
 #EXTINF:-1 group-title="Kids🟠" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.3RC4gvj2mcKA0rxbcKeJLwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",MAX Kids
 https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
@@ -2132,11 +2061,19 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="MoonbugKids.us" tvg-name="Moonbug Kids" tvg-logo="https://i.imgur.com/h5B5d8r.png" group-title="Kids🟠", MoonbuG
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Dreamworks - [Channel 47].id"  tvg-logo="https://i.imgur.com/7IDeAuX.png" group-title="Kids🟠", DREAMWORKS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
-#EXTINF:-1 tvg-id="Dreamworks.id" tvg-name="Dreamworks HD" tvg-logo="https://i.imgur.com/7IDeAuX.png" group-title="Kids🟠",DREAMWORKS
-https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mediampd/DreamWorksHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
+https://fta3-cdn-flr.visionplus.id/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7IDeAuX.png" group-title="Kids🟠", DREAMWORKs
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b1e9c4d5a2f4d8c9f106d3a8b2c1e77:8b2904224c6cee13d2d4e06c0a3b2887
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
@@ -2227,8 +2164,8 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="duniaanak.id" tvg-name="duniaanak" tvg-logo="https://images.indihometv.com/tvposter/duniaanak.png" group-title="Kids🟠",DUNIA ANAK 
-#https://cdnbal1.indihometv.com/atm/DASH/duniaanak/duniaanak-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/duniaanak/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/duniaanak/duniaanak-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/duniaanak/manifest.mpd
 
 #EXTINF:-1 cuid="163" tvg-name="Ducktv" tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/Picsart_25-07-31_20-39-34-411.png" group-logo="" group-title="Kids🟠",Duck tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
@@ -2268,18 +2205,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mediampd/ABC_Austra
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mkdq6admRjS2hGrRUqYx-mzuN34=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12784/africanews-tv-16de57.jpg" group-title="News", AFRICANEWS
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
-#EXTINF:-1 tvg-id="CNN.International.id" tvg-name="CNN International" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_455xkjp3/landscape_carousel_hdpi.webp" group-title="News",CNN INT
-https://cdnbal1.indihometv.com/atm/DASH/cnninternational/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_455xkjp3/landscape_carousel_hdpi.webp" group-title="News",CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="News",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg" group-title="News",NBC NEWS
-#https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
-#https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",CTV NEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22e73106b94341e588316b352b0d4fdb:417edcac1b76db20cdd781c8ed580f28
+https://live-news.video.9c9media.com/f/news/ctvnews/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22dcc9a719a3411ca53b520236ded916:27425784e415cb5de6c857de6222b01b
@@ -2361,7 +2297,7 @@ https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mediampd/TV5Monde.mpd
 https://cdnbal1.indihometv.com/atm/DASH/tv5monde/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.P6WgjuMho7XmB5pgygZ-hgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3", TV5 ASIE
-https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
+#https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
 
 #EXTINF: -1 tvg-id="bbcnews" tvg-logo="https://i.imgur.com/32JRImq.jpeg" group-title="News", BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -2439,8 +2375,8 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/index.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://th.bing.com/th/id/R.900d88d28139b8c6e55f1a7252ecd41f?rik=qBOI9bU675e5nw&riu=http%3a%2f%2fwww.livenewsmag.com%2fwp-content%2fuploads%2f2016%2f12%2fPress-TV-News-Live-Stream-300x169.jpg&ehk=Buv2zUWVN7mY1UdEOFC7R3%2fEdg4zUJd9JBm6aP7tOEw%3d&risl=&pid=ImgRaw&r=0" group-title="News",Press TV
 https://live.presstv.ir/hls/presstv.m3u8
 
-#EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al-Manar TV" tvg-logo="https://th.bing.com/th/id/R.754cef0289a9b441fde24bcaa05b22bc?rik=jCjygWGirRkUXg&riu=http%3a%2f%2fwww.livenewsmag.com%2fwp-content%2fuploads%2f2017%2f01%2fAl-Manar-TV.jpg&ehk=YuUYwg0IsyxSIKRRiJHMZl01pBmXi6GkQwgeTvb4%2b04%3d&risl=&pid=ImgRaw&r=0" group-title="News", Al-Manar
-https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.754cef0289a9b441fde24bcaa05b22bc?rik=jCjygWGirRkUXg&riu=http%3a%2f%2fwww.livenewsmag.com%2fwp-content%2fuploads%2f2017%2f01%2fAl-Manar-TV.jpg&ehk=YuUYwg0IsyxSIKRRiJHMZl01pBmXi6GkQwgeTvb4%2b04%3d&risl=&pid=ImgRaw&r=0" group-title="News", Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
 #########################################################
                  ===========RELIGI=========
