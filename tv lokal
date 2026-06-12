@@ -424,6 +424,9 @@ https://flv.intechmedia.net/live/ch116.m3u8|user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL🔵", KIDS tv
+https://origin5.mediacdn.ru/live/kidstv/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HBpJRRW.jpeg" group-title="NASIONAL🔵", Allegro 
 https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/index-f2-v1-a1.m3u8
 
@@ -717,6 +720,9 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_3n2pn24p/landscape_carousel_hdpi.webp" group-title="NASIONAL🔵",ANTARA TV
 https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_2500000=7-3277707030000000.mpd
 #https://cdnbal1.indihometv.com/atm/DASH/antara/manifest.mpd
+
+#EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="" group-title="NASIONAL🔵", MBGtv
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/chunklist_w1265279783_b394100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://i.imgur.com/hnyAQ65.jpeg" group-title="NASIONAL🔵", 085645895947
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
