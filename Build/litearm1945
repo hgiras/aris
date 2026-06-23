@@ -419,7 +419,6 @@
 
 
 ###################################################
-
 #EXTM3U
 
 
@@ -566,14 +565,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="MOJi" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/NzerZX1.png" group-title="NASIONAL🔵", MOJi
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://202.169.224.202:8800/udp/239.9.1.32:1234
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2I9nKX.png" group-title="NASIONAL🔵", INEWS
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -684,7 +675,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u0SmZNk.png" group-title="NASIONAL🔵", RTv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://flv.intechmedia.net/live/ch116.m3u8|user-agent=Mozilla/5.0
+#https://flv.intechmedia.net/live/ch116.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/u0SmZNk.png" group-title="NASIONAL🔵", RTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -957,17 +948,44 @@ https://e.siar.us/live/sampit-tv.m3u8
 #EXTINF:-1 tvg-id="PadangTV.id@SD" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="NASIONAL🔵",Padang TV
 http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SultraTV.id@SD" tvg-logo="https://i.imgur.com/cmpbNJz.png" group-title="NASIONAL🔵",Sultra TV 
+http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="NASIONAL🔵",STV 
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HumaBetangTV.id@SD" tvg-logo="https://i.imgur.com/CftewQc.png" group-title="NASIONAL🔵",Huma Betang TV 
+#https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SriwijayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" group-title="NASIONAL🔵",Sriwijaya TV
+https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2403UeJ10gquJWdTP361RZdej2P0DW9NroMYfw2uoQxFudZXNNVxKEs14W2RLdtzWdTGCPwCu-AYHUhNUZmgjTAUl4mqI0iHytsS4xzG5DS5tdPcNtHfBczSI8NIpaVzcG2YCZ5UQ-dR657pDeR1sIYzMfCvyWf2mOwZcEoedissuV4Q9yh2QqZYWJ-ob/s700/TV%20PARLEMEN.png" group-title="NASIONAL🔵",TV PARLEMEN
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gdk1toP3uBA/maxresdefault.jpg" group-title="NASIONAL🔵",RRI NET
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8?
+
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.okezone.com%2Fokz%2F500%2Flibrary%2Fimages%2F2020%2F09%2F18%2Fz0gtww1cpk5buouqer93_18358.jpg&f=1&nofb=1&ipt=bd6aaa6aad9c221b5fb7af221b238f1e850210385b74d958e5f6a73df1b4d28c" group-title="NASIONAL🔵",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_3n2pn24p/landscape_carousel_hdpi.webp" group-title="NASIONAL🔵",ANTARA TV
+https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/antara/manifest.mpd
+
 #EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumb.viva.co.id%2Fmedia%2Ffrontend%2Fthumbs3%2F2026%2F02%2F25%2F699ea3508ffee-logo-mbg-tv_gemini_1265_711.jpg&f=1&nofb=1&ipt=d7837ea130a00247b50f5f735b6e61c44ed7d0cd0ef001c977d2a05b7957205e" group-title="NASIONAL🔵", MBGtv
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/chunklist_w1265279783_b394100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="ARMSTORE" tvg-logo="https://i.imgur.com/hnyAQ65.jpeg" group-title="NASIONAL🔵", 085645895947
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-
 [[#####################################################  
-######    WORLD COP
-#EXTINF:-1 group-title="WORLD_CUP" tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg",ELTA SPORT 1 
-https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
+######    WORLD COP ####################
+#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP", QAZ SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://fo01-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
 
 #EXTINF:-1 group-title="WORLD_CUP" tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg",CCTV5HD
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
@@ -986,14 +1004,13 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OKEY TV" tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP",OKEY TV
 http://iptv.kilas7.com:80/kaukia/asdfrewq/32
 
-#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP",RTB_SUKMA.INDERA
-https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b608000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP", N SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 
-#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP",RTB_ANEKA
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP", TYC sports (ARG)
-http://vipapyenhmw.top:8080/live/brejna/6yGNnFuahuTG/4822.ts
+#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP", MNB SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://cdn.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
 
 #EXTINF:-1 group-title="WORLD_CUP" tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg",SUPERSPORT 1  
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
@@ -1004,23 +1021,15 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 #EXTINF:-1 group-title="WORLD_CUP" tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg",SUPERSPORT 3 
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 
-#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 1" tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP",CA: TSN 1
-http://vipapyenhmw.top:8080/VIP01881758874935836/b8b40c183edb/5508
-
-#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP",TVP Sport
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
-
 #EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP", Arena Sport 1 Premium HD 
 http://178.253.194.79:10001
-
-#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP", SPORTV 1 (BR) 
-http://vipapyenhmw.top:8080/live/brejna/6yGNnFuahuTG/4902.ts
 
 #EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP",FR | BEIN SPORTS 1
 http://185.160.192.64:80/mangin15/85784/14170
 
-#EXTINF:-1 group-title="WORLD_CUP" tvg-id="" tvg-name="FS1" tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg",FS1
-http://41.223.30.230/FOXSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP", SULD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://cdn.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 
 #EXTINF:-1 group-title="WORLD_CUP" tvg-id="" tvg-name="" tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg",Fox Deportes 
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
@@ -3510,7 +3519,129 @@ https://khbhls.wns.live/hls/stream.m3u
 https://tv.iraniancongress.com/stream/tv.m3u8
 
 =========================VOD=============================
+====
 #########################################################
 
+############################ VOD 2025
+
+#EXTVLCOPT:http-referrer=https://t21.press 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/m9UtcOEQBtCrRHEI0B2ok4LzdM.jpg",Popeye: The Slayer Man (2025) 
+https://seneng.org/v/driveid-198432-webrip-1080-terbit21-com-popeye-the-slayer-man-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/8LSdymxp7As658u6H86ISXwDvx1.jpg",Sugar Mama (2025) 
+https://seneng.org/v/driveid-197259-webrip-720-terbit21-com-sugar-mama-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/yWCNDb1ORy2UdhmK0fZISGsMdHU.jpg",Elite Force: B. M.I. 芒鈧�� Body Recovery Immmusination (2025) 
+https://seneng.org/v/driveid-198170-webrip-1080-terbit21-com-elite-force-bri-body-recovery-immmusination-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+ 
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/x4nWnfgJvL045rcUCSJzfgIIY9i.jpg",Fight or Flight (2025) 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/02/Fight.or.Flight.2025.mp4/tracks-v1a1/mono.m3u8 
+ 
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qYwI2QmjzMLDm0W58rTJEQzXjMP.jpg",Disfluency (2025) 
+https://seneng.org/v/driveid-196637-webrip-1080-terbit21-com-disfluency-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+ 
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3TLuLDLPLdp6fgVK9Ak6aC6Xrbc.jpg",9/11: The Day the World Stood Still (2025) 
+https://seneng.org/v/driveid-198015-webrip-1080-terbit21-com-911-the-day-the-world-stood-still-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/baRk5YLkKKYrnfcVjpJ5iEUC0zj.jpg",The Legend of Condor Hero: What is Love (2025) 
+https://seneng.org/v/driveid-197015-webdl-1080-terbit21-com-the-legend-of-condor-hero-what-is-love-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+ 
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6id6E5CW15Aa6UD9OoasJKnG1Sc.jpg",Anti Drug Operations (2025) 
+https://seneng.org/v/driveid-196919-webdl-1080-terbit21-com-anti-drug-operations-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+ 
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/cts6R2JOIGGyzYP4UH21SHDjEuO.jpg",Night of the Dead Sorority Babes (2025)
+https://seneng.org/v/driveid-196808-webrip-1080-terbit21-com-night-of-the-dead-sorority-babes-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+ 
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hMJRFQarUL73K6FIbhvO4A8uEvm.jpg",One of Them Days (2025) 
+https://seneng.org/v/driveid-196820-webrip-1080-terbit21-com-one-of-them-days-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+ 
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/bjHGT2f65Tim3YFJJci766FOgzH.jpg",Cooked (2025) 
+https://seneng.org/v/driveid-196816-webrip-1080-terbit21-com-cooked-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+ 
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/yf5VehJTvUh0mIcKVv0mTSWhCkk.jpg",Reality Bites  A Hannah Swensen Mystery (2025) 
+https://seneng.org/v/driveid-196822-webrip-1080-terbit21-com-reality-bites-a-hannah-swensen-mystery-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+ 
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2SIFyuUmnYnXnsJ2Q9cA9Jt3af9.jpg",The Wish Swap (2025) 
+https://seneng.org/v/driveid-196823-webrip-1080-terbit21-com-the-wish-swap-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ihLFcDHv0PdSscrdLFoFtgo6QkH.jpg",Tokyo Nights (2025) 
+https://seneng.org/v/driveid-196906-webdl-1080-terbit21-com-tokyo-nights-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",Companion (2025) 
+https://seneng.org/v/driveid-196889-webrip-1080-terbit21-com-companion-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/5B7Px0GfJwNMRD5PWJW3d0seo7O.jpg",The Cursed Village (2025) 
+https://seneng.org/v/driveid-196628-webdl-1080-terbit21-com-the-cursed-village-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hwderaleWCBj6nrJDxi3BKyJvaI.jpg",Death Before the Wedding (2025) 
+https://seneng.org/v/driveid-196594-webrip-1080-terbit21-com-death-before-the-wedding-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/k2Lq3rCJ7P9gk5Df9of9kqr9IJM.jpg",Kinda Pregnant (2025) 
+https://seneng.org/v/driveid-196469-webrip-1080-terbit21-com-kinda-pregnant-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8vPfPIBpW3jP7rZkZeaw8GImgIN.jpg",To Dye For  The Documentary (2025) 
+https://seneng.org/v/driveid-195450-webrip-1080-terbit21-com-to-dye-for-the-documentary-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sdPrOJHRJkWmjUsMQVHQeUAHFVD.jpg",God of Driving (2025) 
+https://seneng.org/v/driveid-195569-webdl-1080-terbit21-com-god-of-driving-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+ 
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6Cq6caJBoFu5BOCEXkXt2l8lIbb.jpg",Fortune Teller (2025) 
+https://seneng.org/v/driveid-195568-webdl-1080-terbit21-com-fortune-teller-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Opn9aPs8UCBJQ6lqou3i8f9omC.jpg",Sponsor (2025)
+https://seneng.org/v/driveid-195524-webdl-1080-terbit21-com-sponsor-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+ 
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zNHgQRaflknCSRvKFepqvsHVimG.jpg",Hiram na Sandali (2025) 
+https://seneng.org/v/driveid-195435-webdl-1080-terbit21-com-hiram-na-sandali-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9 
+
+#EXTVLCOPT:http-referrer=https://t21.press
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 type="" group-title="VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",The Love Scam (2025) 
+https://seneng.org/v/driveid-194546-webrip-1080-terbit21-com-the-love-scam-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
 
 ########
