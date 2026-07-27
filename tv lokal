@@ -994,6 +994,27 @@ http://49.0.64.96:8007/NBA
 #EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/justemonn1/tv/raw/main/master/poster/red-bull-tv-banner.webp",RedBullTv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1 group-title="Sports" group-logo="" tvg-id="wrc-rallytv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcyh8R6qqcKL6IvWfNKTWLZYuFpvSmufhL-BBS4TgFtSbhGaVNLQZBzo&s=10",RALLY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://img.shoplineapp.com/media/image_clips/6870c65b44482a00189df887/original.jpg?1752221275",X GAME
+https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mtrspt1.com/en/dominios/mtrspt.pagegear.co/plantillas/pagegear/recursos/logo-mtrspt.png",MTRSPT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/17f217c6-7009-45de-a54e-e7b15fa5f061.jpg",XTREM SPORTS
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIeMWO419U6vynHWtCsm7nwli_sKEVe4voaQ&usqp=CAU",W.O.F
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-worldoffreespor-lgde/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://backend.k19.at/uploads/0cb1f366_7b3b_4800_b8f7_4d58f4039834_083dafe47f.webp",K19 SPORT
+#EXTVLCOPT:http-referrer=https://k19.at/
+https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
+
 #EXTINF:-1 cuid="1484" tvg-name="Fifa+₂" tvg-id="5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20241014T232204SQUARE.png" group-title="Sports",Fifa+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20241014T232204SQUARE.png" group-title="Sports",FIFA 
