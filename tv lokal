@@ -616,7 +616,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=100
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8|referer=https://oxygentv.id/&origin=https://oxygentv.id&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://why.biz.id/Iptv/oxygen.php?id=oxygentv|user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/W9AAkPd.jpeg" group-title="NASIONAL🔵",Garuda TV
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/hsyTuqX.jpeg" group-title="NASIONAL🔵",Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
@@ -2263,6 +2263,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h20/01.m3u8
 #EXTINF:-1 tvg-id="TRT Arabi" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/7cc91b46657225.585d3b1a7d8b7.jpg" group-title="News",TRT Arabic
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-id="WION" tvg-logo="https://i.imgur.com/7v81Bls.jpeg" group-title="News", FREEDOM
+#EXTVLCOPT:http-referrer=https://youtv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h101/S4/mnf.m3u8
+
 #EXTINF:-1 tvg-id="WION" tvg-logo="https://i.imgur.com/fJrOZUT.jpeg" group-title="News",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
@@ -2491,6 +2496,26 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 #EXTINF:-1 tvg-id="Ent.id" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/b/b1/Ent_%282020%29.png/revision/latest?cb=20210401065932" group-title="HIBURAN",Entertainment
 https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
+#EXTINF:-1 tvg-id="DENS.id" tvg-logo="https://i.imgur.com/U1WjHCE.jpeg" group-title="HIBURAN", DENSPLAY
+#EXTVLCOPT:http-referrer=https://youtv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h246/02.m3u8
+
+#EXTINF:-1 tvg-id="DENS.id" tvg-logo="https://i.imgur.com/KM8y4K9.jpeg" group-title="HIBURAN", DENS L&S
+#EXTVLCOPT:http-referrer=https://youtv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h222/02.m3u8
+
+#EXTINF:-1 tvg-id="DENS.id" tvg-logo="https://i.imgur.com/zunkexT.jpeg" group-title="HIBURAN", DENS FC
+#EXTVLCOPT:http-referrer=https://youtv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
+
+#EXTINF:-1 tvg-id="DENS.id" tvg-logo="https://i.imgur.com/tgFJvBA.jpeg" group-title="HIBURAN", DENS SB
+#EXTVLCOPT:http-referrer=https://youtv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h244/02.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2589,7 +2614,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/ind
 #EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="HIBURAN",China Travel
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
-#EXTINF:-1 group-title="HIBURAN" tvg-id="FashionTV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV
+#EXTINF:-1 group-title="HIBURAN" tvg-id="FashionTV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/cNpVmO7.jpeg",Fashion TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
@@ -2618,6 +2643,11 @@ https://streams2.sofast.tv/ptnr-yupptv/title-STAR-VISION-ENG_yupptv/v1/master/61
 ################################################################
   =============== Knowledge & Documentary ==========================>
 ################################################################
+#EXTINF:-1 tvg-id="DENS.id" tvg-logo="https://i.imgur.com/p2tsc5T.jpeg" group-title="PENGETAHUAN🟢", DENS KNOWLEDGE
+#EXTVLCOPT:http-referrer=https://youtv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h236/02.m3u8
+
 #EXTINF:-1 group-title="PENGETAHUAN🟢" group-logo="" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png",ANIMAL PLANET
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -2642,6 +2672,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 
 #EXTINF:-1 group-title="PENGETAHUAN🟢" tvg-logo="https://i.imgur.com/H4M3P5o.png", CGTN DOCUMENTARY
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+
+#EXTINF:-1 tvg-id="DENS.id" tvg-logo="https://i.imgur.com/H4M3P5o.png" group-title="PENGETAHUAN🟢", CGTN DOCUMENTAry
+#EXTVLCOPT:http-referrer=https://youtv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-id="cgtn-global-biz" tvg-logo="https://a.jsrdn.com/hls/23232/cgtn-global-biz/poster_20251105_004203.jpg" group-title="PENGETAHUAN🟢",CGTN Global
 https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
@@ -2748,7 +2783,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
-#EXTINF:-1 tvg-id="auto.history.us" tvg-name="History-US" tvg-logo="https://i.imgur.com/zM3vIYj.png" group-title="PENGETAHUAN🟢",HISTORY US
+#EXTINF:-1 tvg-id="auto.history.us" tvg-name="History-US" tvg-logo="https://i.imgur.com/zM3vIYj.png" group-title="PENGETAHUAN🟢",HISTORY
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
 
 #EXTINF:-1 tvg-id="TRUE_HISTORY" tvg-name="True History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/63d99c12-2ff1-47aa-a172-6ba7128231c7/1920x1080.jpg" group-title="PENGETAHUAN🟢",True History
@@ -2957,6 +2992,11 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1659
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-logo="https://i.imgur.com/NYnr6Mg.png" group-title="China",CCTV 4
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-logo="https://i.imgur.com/NYnr6Mg.png" group-title="China",CCtv 4
+#EXTVLCOPT:http-referrer=https://youtv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h22/01.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
