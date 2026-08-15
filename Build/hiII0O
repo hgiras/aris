@@ -141,34 +141,54 @@ http://202.150.161.212:5000/live/channel458/playlist.m3u8
 http://202.150.161.212:5000/live/channel459/playlist.m3u8
 http://202.150.161.212:5000/live/channel460/playlist.m3u8
 
-#EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/iqZlkD4.png", tp555
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://202.150.161.212:5000/live/channel316/playlist.m3u8
-http://202.150.161.212:5000/live/channel3217/playlist.m3u8
-http://202.150.161.212:5000/live/channel318/playlist.m3u8
-http://202.150.161.212:5000/live/channel319/playlist.m3u8
-http://202.150.161.212:5000/live/channel320/playlist.m3u8
-http://202.150.161.212:5000/live/channel321/playlist.m3u8
-http://202.150.161.212:5000/live/channel322/playlist.m3u8
-http://202.150.161.212:5000/live/channel323/playlist.m3u8
-http://202.150.161.212:5000/live/channel324/playlist.m3u8
-http://202.150.161.212:5000/live/channel325/playlist.m3u8
-http://202.150.161.212:5000/live/channel326/playlist.m3u8
-http://202.150.161.212:5000/live/channel327/playlist.m3u8
-http://202.150.161.212:5000/live/channel328/playlist.m3u8
-http://202.150.161.212:5000/live/channel329/playlist.m3u8
-http://202.150.161.212:5000/live/channel330/playlist.m3u8
-http://202.150.161.212:5000/live/channel331/playlist.m3u8
-http://202.150.161.212:5000/live/channel332/playlist.m3u8
-http://202.150.161.212:5000/live/channel333/playlist.m3u8
-http://202.150.161.212:5000/live/channel334/playlist.m3u8
-http://202.150.161.212:5000/live/channel335/playlist.m3u8
-http://202.150.161.212:5000/live/channel336/playlist.m3u8
-http://202.150.161.212:5000/live/channel337/playlist.m3u8
-http://202.150.161.212:5000/live/channel338/playlist.m3u8
-http://202.150.161.212:5000/live/channel339/playlist.m3u8
-http://202.150.161.212:5000/live/channel340/playlist.m3u8
+#EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="NASIONAL🔵", SCTV
+http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
+#EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/1K6Q4RY.png", INDOSIAR
+http://103.66.62.83:8000/play/a069/index.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.adptv.workers.dev/license_cenc
+#EXTINF:-1 tvg-id="SCTV.id" group-title="NASIONAL🔵" tvg-logo="https://raw.githubusercontent.com/hud4156/mytv/main/png/sctv.png",SCTV HD
+ttps://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="NASIONAL🔵", Indosiar
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+#https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=indosiar
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL🔵",SCTV HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=sctv
+
+#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="NASIONAL🔵" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="NASIONAL🔵",Indosiar HD
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5PKXhU1Wbv2gnl1zHov4odufJUpww4Io1yA&s" group-title="NASIONAL🔵",SCTV HD
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/SCTV.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="NASIONAL🔵" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/iqZlkD4.png"3444
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
