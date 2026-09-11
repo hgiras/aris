@@ -259,21 +259,16 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/JTBuYHg.jpeg" group-title="NASIONAL🔵",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.vidio.com&referer=http://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/JTBuYHg.jpeg" group-title="NASIONAL🔵",SCtv
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NacE9Ra0g0dTlhc29keDE1OHU4Vm0zV3MvcU5CUjJCSWZTR1FJRnF2VXEyQQ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
+#EXTVLCOPT:http-origin=http://www.biznetvideo.net
+http://livestream.biznetvideo.net/sctv/smil:sctv.smil/chunklist_w1812539792_slen.m3u8
+http://livestream.biznetvideo.net/sctv/smil:sctv.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/JTBuYHg.jpeg" group-title="NASIONAL🔵", sctv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -284,13 +279,10 @@ https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-327770703000000
 http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
 
 #EXTINF:-1 tvg-id="158" tvg-name="adptv-158" tvg-logo="https://i.imgur.com/UhfAhCS.jpeg" group-title="NASIONAL🔵",Indosiar
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
+#EXTVLCOPT:http-origin=http://www.biznetvideo.net
+http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/chunklist_w1376272452_slen.m3u8
 
 #EXTINF:-1 group-title="Nasional"  tvg-logo="https://i.imgur.com/UhfAhCS.jpeg" group-title="NASIONAL🔵", INDOSIar
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -334,8 +326,14 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/V1bw3o9.png" group-title="NASIONAL🔵",ANtv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#https://013tv.com:8080/F33848/cbd9779b/165072
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=10&type=fitnah
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/V1bw3o9.png" group-title="NASIONAL🔵",ANTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -343,7 +341,7 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 #EXTVLCOPT:http-origin=http://www.vidio.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=7828&type=drm
-http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
+#http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/PBv1nRV.png", tvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -375,8 +373,8 @@ http://gvisiontv.channell.my.id/ch/id/mdtvnow.php/.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NzerZX1.png" group-title="NASIONAL🔵", MOJI
-http://202.150.161.212:5000/live/channel39/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://013tv.com:8080/F33848/cbd9779b/298550
 
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/O2I9nKX.png",iNEWS
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -706,11 +704,6 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVYogyakarta.id@HD" tvg-logo="https://iili.io/HFmJZf1.png" group-title="NASIONAL🔵",SANGAJI
 https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M2wtOLG.png" group-title="NASIONAL🔵" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzw1iPft9ZYuFVyMWCnpemc3j2hRyEdNOjVQ&s" tvg-id="SaktiTV" tvg-name="Sakti TV", Sakti TV
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#http://khano.nng.cloudns.us/live/m3u8/id/3202e9487d9cd5c.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -782,13 +775,6 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uWD0Ai7.png" group-title="NASIONAL🔵",BMS TV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JDSLmDv6HTJVw8AIGfBi7P7TS0YpEhhNxAyDjQB5RCekpd8csnHtIqeucV2BtpK9LVZ_pK4MIA=s900-c-k-c0x00ffffff-no-rj" group-title="NASIONAL🔵",DAVIKA
-https://5bf7b725107e5.streamlock.net/davika/davika/chunklist_w421122771.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmHptx7.png" group-title="NASIONAL🔵" ,RUAI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-#https://flv.intechmedia.net/live/ch81.m3u8
 
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/aQ73kDT.png",TVKU
 https://tvku.tv/hlsstream/hls/live.m3u8
@@ -2524,7 +2510,6 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_360640_p_0.m3u8
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_240426_p_0.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/fashion-one-logo-1.png" group-title="HIBURAN" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="Fashion One 4K.ru" tvg-name="Fashion One 4K.ru", Fashion One
@@ -2877,25 +2862,6 @@ https://nogoumtv.nrpstream.com/hls/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
-#EXTINF:-1 tvg-id="39" group-title="ARAB"  tvg-logo="",MIRACLE ARABIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://miracle.stream.boxigy.com/mc-720/stream_0.m3u
-
-#EXTINF:-1 tvg-id="39" group-title="ARAB"  tvg-logo="", EMAN TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cd198.anystream.uk:9092/web/emnhdweb/chunks.m3u8
-
-#EXTINF:-1 tvg-id="39" group-title="ARAB"  tvg-logo="", ISLAM CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://corsply-v0s4.cfcross.workers.dev/?url=https%3A%2F%2Fdtfe3weh30eb8.cloudfront.net%2Fout%2Fv1%2Fislamchannel%2Fislamtv-english%2Fhls-ts%2Findex_360.m3u8
-
-#EXTINF:-1 tvg-id="39" group-title="ARAB"  tvg-logo="", PALESTINE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pbc.furrera.ps/palestinehd/tracks-v3a1/mono.m3u
-
-#EXTINF:-1 tvg-id="39" group-title="ARAB"  tvg-logo="", ARABICA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://oldkors-k0y7s.cfcross.workers.dev/?url=http%3A%2F%2Fistream.binarywaves.com%3A8081%2Fhls%2Farabica%2Farabicatv_1080%2Findex.m3u8
 
 ########################################################################
    ======================= China ====================================>
