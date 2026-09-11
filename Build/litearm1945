@@ -299,6 +299,9 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://013tv.com:8080/F33848/cbd9779b/162503
 
+#EXTINF:-1  group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/On1j2M9.png", transtv
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34324
+
 #EXTINF:-1  group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/On1j2M9.png",TRANSTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -311,6 +314,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/Nnl9XrD.png" group-title="NASIONAL🔵",TRANS7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 http://013tv.com:8080/F33848/cbd9779b/162502
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/Nnl9XrD.png" group-title="NASIONAL🔵", trans7
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34325
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/Nnl9XrD.png" group-title="NASIONAL🔵",TRANs7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -372,9 +378,10 @@ http://gvisiontv.channell.my.id/ch/id/mdtvnow.php/.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NzerZX1.png" group-title="NASIONAL🔵", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:124.0) Gecko/20100101 Firefox/124.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://013tv.com:8080/F33848/cbd9779b/298550
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
 
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/O2I9nKX.png",iNEWS
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -2629,6 +2636,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd
+
+#EXTINF:-1 group-title="PENGETAHUAN🟢" tvg-logo="https://i.postimg.cc/Mp9ZQDtr/ezgif-360a7876eb21521e.png",NEW TV COMPREHENSIVE
+https://cdnbal1.indihometv.com/atm/DASH/newtvcomprehensive/manifest.mpd
+#EXTINF:-1 group-title="PENGETAHUAN🟢" tvg-logo="https://i.postimg.cc/L6RmQ7WK/ezgif-3197095757090223.png",NEW TV VARIETY
+https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/manifest.mpd
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/pg53cPq.png" group-title="PENGETAHUAN🟢",DISCOVERY
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
