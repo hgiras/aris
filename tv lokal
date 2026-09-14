@@ -324,6 +324,8 @@ http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34325
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/V1bw3o9.png" group-title="NASIONAL🔵", antv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/V1bw3o9.png" group-title="NASIONAL🔵",ANtv
@@ -337,12 +339,7 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/V1bw3o9.png" group-title="NASIONAL🔵",ANTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#EXTVLCOPT:http-origin=http://www.vidio.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=7828&type=drm
-#http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
+http://013tv.com:8080/F33848/cbd9779b/165072
 
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/PBv1nRV.png", tvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -401,6 +398,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_s
 #EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://i.imgur.com/4Gf84xB.jpeg" group-title="NASIONAL🔵",CNBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w220127915_b384000_sleng.m3u8
+http://013tv.com:8080/F33848/cbd9779b/165062
 
 #EXTINF:-1 tvg-id="Kompas TV.id"  tvg-logo="https://i.imgur.com/wpfAwXC.jpeg" group-title="NASIONAL🔵", KOMPASTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -3873,4 +3871,3 @@ https://pixeldrain.com/api/file/ocwVztMT?download
 
 #EXTINF:-1 tvg-id="auto.trinil" group-title="VOD INDO",Trinil
 https://pixeldrain.com/api/file/gu6tTkv4?download
-
