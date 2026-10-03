@@ -220,7 +220,15 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/P0WScZl.png" group-title="NASIONAL🔵", MNcTv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://mnctv-linier.rctiplus.id/hdntl=exp=1791075884~acl=%2F*~data=hdntl~hmac=7207111fd8dd70d3e6e2c2440a59bb23a730f82bf4b8d1cc7e1bf60bf62f33ca/mnctv-sdi-avc1_450000=9-mp4a_96000=1.m3u8
+https://allfta.rctiplus.id/mnctv-sdi-avc1_600000=8-mp4a_96000=1.m3u8?auth_key=1791064482-3800efd305e71c3b911a169dd00a7665-z7t03thgPkpNaMh0J3CUWxc5UAc1gFUaQZtF9jSW-9117f7098e75f580bad735bca7c4b7bc
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktcyber05.transvision.co.id/riutx01-2f65b3d77c22543c5b585fb146ab3f32/dash/TU5DVFY/manifest.mpd?signature=ZWE4YjFlODAyZWZjZWMzOGUyMWY1N2ZkYjliOTE4ODk=&time=15257441254&device_id=ClYjwl2nbGIvdKzY26xh1W1IoxQh41_3kfzTVtDZovOA
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/vYwruS2.png" group-title="NASIONAL🔵",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
