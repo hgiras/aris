@@ -358,10 +358,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/iqZlkD4.png", MDTV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-26da9f0c09ef5b1a204f368aa2cb3e30/dash/TURUVg/manifest.mpd?signature=YTBlZjQyODJkM2QxY2I1OTU0N2QxOTA3YzczODVlZDA=&time=77777777777&device_id=pUaPSjNRcG_ur2u0SBUcaA5Vk_FO91pWAHpKSpGSCqhj6tJEaA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=23&type=drm&token=apistech
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/iqZlkD4.png", mdtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -406,7 +407,7 @@ https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-26da9f0c09ef5b1a204f368aa2cb3e30/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd?signature=MzhkZjY1Y2EyMmE0MzM4MTVjOTZiNzVlZDljOGQ4YzU=&time=77777777777&device_id=TAb8c-9cSQPbVY8ExGo-E6ZsjYUISTPKwj0ieaXy5egGj0Yrsg
+https://cdnjktcyber05.transvision.co.id/riutx01-036eef823712f3523b3b725952d97201/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd?signature=MzhkZjY1Y2EyMmE0MzM4MTVjOTZiNzVlZDljOGQ4YzU=&time=77777777777&device_id=TAb8c-9cSQPbVY8ExGo-E6ZsjYUISTPKwj0ieaXy5egGj0Yrsg
 
 #EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://i.imgur.com/4Gf84xB.jpeg" group-title="NASIONAL🔵",CNBC
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
@@ -419,10 +420,11 @@ https://cdnjktcyber05.transvision.co.id/riutx01-26da9f0c09ef5b1a204f368aa2cb3e30
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/wpfAwXC.jpeg" group-title="NASIONAL🔵", KOMPAStv
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-26da9f0c09ef5b1a204f368aa2cb3e30/dash/S29tcGFzIFRW/manifest.mpd?signature=M2M2YTVkMzExOGIxM2QyNzdlNzg0NTJhMGFjNDlmMDM=&time=77777777777&device_id=vVVl-OsEIAESnwrXX8zF8iBn3y5xneBw1poRRPk_xJbfNpIiHA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=13&type=drm&token=apistech
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTINF:-1 group-title="NASIONAL🔵"  tvg-logo="https://i.imgur.com/Yns70Iy.jpeg",Metro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
@@ -467,7 +469,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=l
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-26da9f0c09ef5b1a204f368aa2cb3e30/dash/QmVyaXRhIFNhdHU/manifest.mpd?signature=ZmFlM2FmNDhiYmI3YzA3NmJmYWZlMDUyNDA1ZjBmZTE=&time=77777777777&device_id=6SAxtWNrChRLII0CwmAxnMEBHbM0tDz0hwuFGkP8CVWk6I-jPg
+https://cdnjktcyber05.transvision.co.id/riutx01-036eef823712f3523b3b725952d97201/dash/QmVyaXRhIFNhdHU/manifest.mpd?signature=ZmFlM2FmNDhiYmI3YzA3NmJmYWZlMDUyNDA1ZjBmZTE=&time=77777777777&device_id=6SAxtWNrChRLII0CwmAxnMEBHbM0tDz0hwuFGkP8CVWk6I-jPg
 
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/KPsP3Ev.jpeg",BERITAsatu
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -516,10 +518,11 @@ https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.imgur.com/9PMXdDJ.jpegg" group-title="NASIONAL🔵",Rtv
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-26da9f0c09ef5b1a204f368aa2cb3e30/dash/cnR2IENobmw/manifest.mpd?signature=M2NlNTU5YmFhM2Y4NjJjNWM3NjA1Y2ViMzhiYjYyMTQ=&time=77777777777&device_id=_Komi8PF0qn-wx7r-Q3_hbQs9uIE8XZPX4ju_XqqMpeFetD9TQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=11&type=drm&token=apistech
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
