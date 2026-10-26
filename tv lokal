@@ -227,7 +227,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/TU5DVFY/manifest.mpd?signature=YmFkYzc0NzQ1NjQ5YTE3YTI3MmJhZjNhYWMzZjRiYzQ=&time=15267625576&device_id=vtThbs908xXQs_DbpXbTb0onRJlFaNns5Rj-Fvh52MI-krWAGFFwcrA7
+#https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/TU5DVFY/manifest.mpd?signature=YmFkYzc0NzQ1NjQ5YTE3YTI3MmJhZjNhYWMzZjRiYzQ=&time=15267625576&device_id=vtThbs908xXQs_DbpXbTb0onRJlFaNns5Rj-Fvh52MI-krWAGFFwcrA7
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/vYwruS2.png" group-title="NASIONAL🔵",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -250,7 +250,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=NmE4MjE1ODc5MTVhMGE5Mjc1YjU2N2ViNjg2MGFjODQ=&time=15267572162&device_id=fEr2nPZ7T-1V1uIOcbjPMw5N4Ns5VyZ_XrblpYO4VtMpiAM3dtiBeLQY
+#https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=NmE4MjE1ODc5MTVhMGE5Mjc1YjU2N2ViNjg2MGFjODQ=&time=15267572162&device_id=fEr2nPZ7T-1V1uIOcbjPMw5N4Ns5VyZ_XrblpYO4VtMpiAM3dtiBeLQY
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/CGJlJYi.png" group-title="NASIONAL🔵",GTv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -273,6 +273,12 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmustv.tvnid.workers.dev
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/R1RWLUNIQU5ORUw/manifest.mpd?signature=MjZiM2NhOTM1MmFjOTc1NWZjOWE3OTJmZDAxOTdiYmQ=&time=15267572015&device_id=uqIBgC-2FU9txWjW6w2jF4upMRnFuAmFEu9Xv9Fvs62OTPfuxSNNSbaK
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/JTBuYHg.jpeg" group-title="NASIONAL🔵", SCtv
