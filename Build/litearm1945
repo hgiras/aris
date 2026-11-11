@@ -213,7 +213,15 @@
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=2&type=drm
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/P0WScZl.png" group-title="NASIONAL🔵",MNCTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=2
+https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/P0WScZl.png" group-title="NASIONAL🔵",MNCTv
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -239,7 +247,15 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1&type=drm&token=apistech
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1&type=drm&token=alf-store
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/vYwruS2.png" group-title="NASIONAL🔵",RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1
+https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/vYwruS2.png" group-title="NASIONAL🔵",RCTi
 #EXTVLCOPT:http-user-agent=android-R+
@@ -262,7 +278,15 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=3&type=drm&token=apistech
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=3&type=drm&token=alf-store
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=3&type=drm
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/CGJlJYi.png" group-title="NASIONAL🔵",GTv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+##KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=3
+https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/CGJlJYi.png" group-title="NASIONAL🔵",GtV
 #EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -280,7 +304,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=8
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+http://202.150.165.66:8088/play/808-SCTV/index.m3u8
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/JTBuYHg.jpeg" group-title="NASIONAL🔵", SCTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -294,11 +319,8 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=9
-https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
-
-#EXTINF:-1 group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/UhfAhCS.jpeg", INDOSIaR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
-#https://raw.githubusercontent.com/mbasongan/mbanjaran/refs/heads/main/id.m3u8
+http://202.150.165.66:8088/play/809-Indosiar/index.m3u8
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 group-title="Nasional"  tvg-logo="https://i.imgur.com/UhfAhCS.jpeg" group-title="NASIONAL🔵", INDOSiar
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -322,7 +344,8 @@ https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=6&type=drm&token=apistech
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=6&type=drm&token=alf-store
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=6
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+http://202.150.165.66:8088/play/800-TransTV/index.m3u8
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/Nnl9XrD.png" group-title="NASIONAL🔵",TRANS7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -349,7 +372,8 @@ https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=7&type=drm&token=apistech
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=7&type=drm&token=alf-store
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=7
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+http://202.150.165.66:8088/play/801-Trans7/index.m3u8
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/V1bw3o9.png" group-title="NASIONAL🔵", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -361,7 +385,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=10
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=10&type=drm&token=alf-store
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=10
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+http://202.150.165.66:8088/play/807-ANTV/index.m3u8
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/V1bw3o9.png" group-title="NASIONAL🔵",ANTv
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
@@ -410,13 +435,13 @@ http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=4&type=drm&token=apistech
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=4&type=drm&token=alf-store
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=4
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
+https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/O2I9nKX.png",iNEWS
-#EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=inews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-id="IDX.id" tvg-logo="https://i.imgur.com/eTTQL0Q.png", IDX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -514,19 +539,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nN0EAhx.jpeg" group-title="NASIONAL🔵",SINpO TV
 #https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="029" tvg-name="029" tvg-logo="https://i.imgur.com/nN0EAhx.jpeg" group-title="NASIONAL🔵",SINpO tv
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash
-http://tvratu.my.id/nissa/index.mpd?id=19046&type=dash
-
 #EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="" tvg-logo="https://i.imgur.com/H8gQNv6.png" group-title="NASIONAL🔵",MENTARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=20&type=drm&token=apistech
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTINF:-1 type="iptv" tvg-id="Mentari TV" tvg-logo="https://i.imgur.com/H8gQNv6.png" group-title="NASIONAL🔵",MENTARi
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -549,8 +567,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=11&type=drm&token=apistech
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
-https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/cnR2IENobmw/manifest.mpd?signature=MzVhOTZmZjBlMzNmYWMzNTI3NGMyMjUzYjcwZmQ1MDU=&time=15267614576&device_id=SJZUlAgtVHiAxNKLC72jcdzN5IW-ZRt88G3ZIePzkikxHViTThNOtGyF
+http://202.150.165.66:8088/play/818-RTV/index.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -725,15 +742,12 @@ https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=26&type=drm&token=alf-store
-https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
+http://202.150.165.66:8088/play/821-BaliTV/index.m3u8
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 #EXTINF:-1 tvg-id="Banjar TV - [Channel 80].id" tvg-url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcGqENIZcD6CDqZDPNoXmw3-xi2ufKOP1yg&usqp=CAU"  tvg-logo="https://i.imgur.com/pSXtkBQ.png" group-title="NASIONAL🔵",BANJAR TV
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MatrixTVYogyakarta.id@HD" tvg-logo="https://i.imgur.com/ajiPES0.png" http-referrer="https://stream.matrixtv.id/" group-title="NASIONAL🔵",STARA JOGJA
-#EXTVLCOPT:http-referrer=https://stream.matrixtv.id/
-https://stream.matrixtv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="NASIONAL🔵" tvg-id="STARA.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://i.imgur.com/ajiPES0.png",STARA JAKARTA
 https://jakarta.staratv.id/hls/0/stream.m3u8
