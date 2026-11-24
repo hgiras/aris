@@ -1417,9 +1417,9 @@ https://dsgtq5sngxkde.cloudfront.net/hitsmovies/index.m3u8
 
 #EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-name="ROCK ACTION" tvg-logo="https://i.imgur.com/cuH04Du.png" group-title="Film", ROCK ACTION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/rockaction/index.m3u8
-#https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2014/04/warnertv-logo.jpg" group-title="Film",WARNER tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1509,7 +1509,7 @@ https://dsgtq5sngxkde.cloudfront.net/thrill/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=44&type=drm&token=alf-store
-https://dsgtq5sngxkde.cloudfront.net/celestialmovie/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/celestialmovies/index.m3u8
 #https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-id="Celestial Classic Movies" tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg" group-title="Film",CCM
