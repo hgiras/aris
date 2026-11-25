@@ -334,6 +334,20 @@ https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 #EXTVLCOPT:http-origin=http://www.vidio.com
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
+#EXTM3U
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf4f4ef3ffa4737b48a29e6c6be63a8:cc9cfb1f392e4b4180d79fa8178ab041
+#EXTINF:-1  group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/On1j2M9.png",TRANSTV
+https://cdnjkt913.transvision.co.id:1000/live/master/108/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7751486d473462613941317475747839:306d7a6a5167336c4e73696631516a64
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+
 #EXTINF:-1  group-title="NASIONAL🔵" tvg-logo="https://i.imgur.com/On1j2M9.png",TRANSTv
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
